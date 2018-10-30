@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 import sys
-import os.path
+from os import system, path
+import random
 
 #--------------GETCH-----------------------------------------------------
 class _Getch:
@@ -49,8 +50,10 @@ wordList = []
 gameList = []
 
 def createDictFromVocabFile():
+    global wordDefDict
+    global wordList
     try:
-        if os.path.exists(sys.argv[1]):
+        if path.exists(sys.argv[1]):
             with open(sys.argv[1], 'r') as vocabFile:
                 vocabRaw = vocabFile.read()
         else:
@@ -61,10 +64,13 @@ def createDictFromVocabFile():
         info = chunks.split("\n")
         word = info[0].replace("$","")
         defs = list(filter(lambda i: i[0] == ">", info))
+        defs = [i[1:] for i in defs]
         wordDefDict[word] = defs
         wordList.append(word)
 
 def setupGame():
+    global wordList
+    global gameList
     start = 0
     end = len(wordList)
     try:
@@ -74,18 +80,52 @@ def setupGame():
     except IndexError:
         pass
     try:
-        start = wordList.index(sys.argv[3])
-        start += 1
+        end = wordList.index(sys.argv[3])
+        end += 1
     except ValueError:
         raise ValueError("Invalid end word.")
     except IndexError:
         pass
     gameList = wordList[start:end]
 
-    
+def createOptions(key):
+    global wordList
+    options = [key]
+    while len(options) < 5:
+        opt = wordList[random.randint(0, len(wordList)-1)]
+        if opt not in options:
+            options.append(opt)
+    random.shuffle(options)
+    return options
+
+def displayResponse(key, options):
+    global wordDefDict
+    print(key)
+    print('')
+    for i in range(0, len(options)):
+        print ((i+1), wordDefDict[options[i]])
+    return getch()
+
+def clearScreen():
+    system("clear")
 
 def playGame():
-    pass
+    global wordDefDict
+    global wordList
+    global gameList
+    remainingWords = list(gameList)
+    random.shuffle(remainingWords)
+    clearScreen()
+    while remainingWords:
+        select = chr(0)
+        key = remainingWords.pop()
+        options = createOptions(key)
+        selectAnswer = chr(49 + options.index(key))
+        while select != selectAnswer:
+            select = displayResponse(key, options)
+            clearScreen()
+            if select == chr(27):
+                exit()
 
 def main():
     createDictFromVocabFile()
