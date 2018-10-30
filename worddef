@@ -1,0 +1,98 @@
+#!/usr/bin/env python3
+
+import sys
+import os.path
+
+#--------------GETCH-----------------------------------------------------
+class _Getch:
+    """Gets a single character from standard input.  Does not echo to the
+screen."""
+    def __init__(self):
+        try:
+            self.impl = _GetchWindows()
+        except ImportError:
+            self.impl = _GetchUnix()
+
+    def __call__(self): return self.impl()
+
+
+class _GetchUnix:
+    def __init__(self):
+        import tty, sys
+
+    def __call__(self):
+        import sys, tty, termios
+        fd = sys.stdin.fileno()
+        old_settings = termios.tcgetattr(fd)
+        try:
+            tty.setraw(sys.stdin.fileno())
+            ch = sys.stdin.read(1)
+        finally:
+            termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
+        return ch
+
+
+class _GetchWindows:
+    def __init__(self):
+        import msvcrt
+
+    def __call__(self):
+        import msvcrt
+        return msvcrt.getch()
+
+
+getch = _Getch()
+#------------------------------------------------------------------------
+
+wordDefDict = {}
+wordList = []
+gameList = []
+
+def createDictFromVocabFile():
+    try:
+        if os.path.exists(sys.argv[1]):
+            with open(sys.argv[1], 'r') as vocabFile:
+                vocabRaw = vocabFile.read()
+        else:
+            raise ValueError("File not found.")
+    except IndexError:
+        raise IndexError("Please enter vocab file.")
+    for chunks in vocabRaw.split("\n\n")[:-1]:
+        info = chunks.split("\n")
+        word = info[0].replace("$","")
+        defs = list(filter(lambda i: i[0] == ">", info))
+        wordDefDict[word] = defs
+        wordList.append(word)
+
+def setupGame():
+    start = 0
+    end = len(wordList)
+    try:
+        start = wordList.index(sys.argv[2])
+    except ValueError:
+        raise ValueError("Invalid start word.")
+    except IndexError:
+        pass
+    try:
+        start = wordList.index(sys.argv[3])
+        start += 1
+    except ValueError:
+        raise ValueError("Invalid end word.")
+    except IndexError:
+        pass
+    gameList = wordList[start:end]
+
+    
+
+def playGame():
+    pass
+
+def main():
+    createDictFromVocabFile()
+    setupGame()
+    playGame()
+
+if __name__ == '__main__':
+    main()
+
+
