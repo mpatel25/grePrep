@@ -1,132 +1,248 @@
 $abate
+$abates
+$abated
+$abating
 >v. to diminish in intensity
 >v. to cause to diminish in intensity
+~In an hour or so the storm would abate and they could leave.
+~Taking pain medicine can cause headaches to abate.
+~After a few hours of providing heat, the fire's bright flames began to abate.
 
 $aberrant
 >adj. diverging from the standard type
+~This somewhat aberrant behaviour requires an explanation.
+~A year of aberrant weather - record rainfall in the summer, record heat in autumn.
 
 $abjure
+$abjured
+$abjuring
 >v. to reject or renounce
+~A strict religious sect that abjures the luxuries, comforts, and conveniences of the modern world.
+~Nobody is forcing him to abjure press conferences or any other interaction with journalists.
 
 $abscond
+$absconds
+$absconded
+$absconding
 >v. to leave secretly, evading detection
+~The suspect absconded to Canada.
+~Several prisoners absconded from the jail.
 
 $abstain
+$abstains
+$abstained
+$abstaining
 >v. to voluntarily refrain from doing something
+~Ten members voted for the proposal, six members voted against it, and two abstained.
+~Muslims must abstain from all eating, drinking or smoking from dawn to dusk each day for the entire lunar month, around 30 days.
 
 $acumen
 >n. keen judgment and perception
+~Her political acumen won her the election.
+~Capable lawyers with business are valuable to any firm.
 
 $admonish
+$admonishes
+$admonished
+$admonishing
 >v. scold or to advise firmly
+~They were admonished and then asked to leave the room.
+~When admonishing players, the referee should speak with dignity, politeness and in a firm manner.
 
 $adulterate
+$adulterated
+$adulterating
 >v. to contaminate or make impure by introducing inferior elements
+~To avoid giving toddlers too much sugar, adulterate their juice with water.
+~I will not adulterate my schedule by filling it with unimportant tasks.
 
 $advocate
+$advocates
+$advocated
+$advocating
 >v. to recommend, support, or advise
 >n. one who advocates
+~The king's advocate also represented the crown in the ecclesiastical courts, and was its standing adviser in matters of international and foregn law.
+~As an advocate for equal rights, she doggedly defended the opressed people groups in her community.
 
 $aesthetic
 >adj. concerned with the nature of beauty and art
+~Most of the sculptures on display were not made to become subject to aesthetic contemplation in western art museums.
+~In his beloved Italy his etchings are suffused with a classicism that nonetheless appeals to a contemporary aesthetic.
 
 $affectation
 >n. fake or artificial behavior, often meant to impress or conceal the truth
+~The affectation of a man who measures every word for effect.
+~There is no affectation about them, and as they come straight from your heart, so they go stright to mine.
 
 $aggrandize
+$aggrandized
+$aggrandizing
 >v. enlarge or increase, esp. wealth, power, reputation
+~Alexander carried on a double policy, always ready to seize opportunities to aggrandize his family.
+~His intent was to become sole lord and to aggrandize his tiny principality.
 
 $alacrity
 >n. promptness and eagerness
+~A number of brisk young men began with remarkable alacrity to tidy up the goods that remained disturbed.
+~The smaller states followed with alacrity in the steps of the two leading powers.
 
 $alleviate
+$alleviates
+$alleviated
+$alleviating
 >v. to relieve a problem or ease a burden
+~He put on his sunglasses, which did little to alleviate the headache sunlight gave him.
 
 $amalgamate
+$amalgamates
+$amalgamated
+$amalgamating
 >v. to combine to or mix together
+~Alexander had planned to amalgamate the former rulers of the world with his Macedonians; but his death was followed by a Macedonian reaction.
+~For many years proposals to amalgamate the working of the companies and displace them by a central public authority were put forward from time to time.
 
 $ambiguous
 >adj. unclear
 >adj. open to multiple interpretations
+~The ending was more ambiguous, one in which the future of the world was in question.
 
 $ambivalent
 >adj. having mixed or contradictory feelings about someone or something
+~Rebecca was ambivalent with her decision to go on the weekend trip because of the work she had to complete.
+~Frank was ambivalent about his breakup with Jane.
 
 $ameliorate
+$ameliorated
+$ameliorating
 >v. to improve or mitigate a situation
+~A solution to ameliorate the negative impact of these areas is needed.
+~There are several biologically plausible reasons why zinc may help to ameliorate the symptoms of the common cold.
 
 $amenable
 >adj. easily convinced or persuaded
+~Mr. Bush is in a position to make his party more amenable to minorities and especially blacks. He should seize the moment.
+~The military element, moreover, has frequently conspired to elect a president amenable to its demands.
 
 $anachronism
 >n. something old-fashioned
 >n. something appearing in a time period where it does not belong
+~In our modern world of pre-made, rush-rush, tightly scheduled lives, Amanda Blake Soule is an anachronism. At their home in coastal Maine, her family of six makes most of what they use—everything from bread and crafts to clothes and toys.
+~The spy thriller is a genre that arguably should have died fifteen years ago, and its continued popularity seems an anachronism at first glance.
 
 $analogous
 >n. comparable
 >n. appropriate for analogy
+~ a town council and a government body that serves an analogous function
 
 $anoint
+$anoints
+$anointed
+$anointing
 >v. to choose for a particular office or position
 >v. to use oil on a person in a religious ceremony
+~The magazine anointed her the most popular actress of the year.
+~Democrats didn’t want to just anoint Pelosi as leader again.
 
 $anomaly
 >n. an exception or unusual case
+~After finding an anomaly in the data, she knew that she would have to conduct her experiment again.
 
 $antipathy
 >n. strong dislike or hatred
+~Maria had an antipathy for tour groups, often bolting to the other side of the museum as soon as she saw a chaperone leading a group of wide eyed tourists.
+~The president's statements didn't come up during the trial, though his antipathy loomed in the background.
 
 $antithetical
 >adj. contrary to the very nature of
+~His deep emotional involvement with these ideas is, in fact, antithetical to the disattachment Buddhism 
+preaches.
+~Spiritual concerns and ideals that are antithetical to the materialism embraced by modern society.
 
-$apathy
->n. state of total disinterest or unenthusiasm
+$apathetic
+>adj. state of total disinterest or unenthusiasm
+~Mr. Thompson was so talented at teaching math that even normally apathetic students took interest.
+~He had shown himself so incapable and apathetic that his followers were sick of fighting for such a despicable master.
 
 $appease
+$appeased
+$appeasing
 >v. to placate
 >v. to satisfy (an appetite, a need)
+~Neville Chamberlain, the British prime minister during WWII, tried to appease Hitler and in doing so sent a clear message: you can walk all over us.
+~We eat only to appease our hunger, we drink only so much as it is good for temperate persons to do.
 
 $arbitrary
 >adj. seemingly chosen or designated without reason or purpose
+~One of the arbitrary decrees in place during the emperor's rule is that all citizens pay him weekly homage 
+at his palace.
 
 $arcane
 >adj. secret or known only to a select group
+~Most college fraternities are known for arcane rituals that those hoping to the join the fraterntiy must 
+learn.
+~Often, a buying decision hinges on a piece of arcane information about a product that is difficult to locate.
 
 $archaic
 >adj. old-fashioned
 >adj. no longer in the common usage
+~The walls are often covered with paintings in a very simple archaic style, in red and black.
 
 $arduous
 >adj. difficult, taxing, requiring considerable effort
+~In order to deal with the arduous cross country journey, truck drivers often survive on a string of caffeinated drinks, staying awake for up to 30 hours at a time.
+~It was an arduous climb up the mountain.
 
 $articulate
 >adj. exhibiting considerable communication skills, well-spoken
+~Anxiety makes it much harder for a person to articulate their thoughts.
+~Powell also thinks that man lived in America before he acquired articulate speech.
 
 $artless
 >adj. without artifice
 >adj. natural, untrained
+~Despite the president's seemingly artless speeches, he was a skilled and ruthless negotiator.
+~Her simple artless charm won us over instantly.
 
 $ascetic
 >adj. austere or self-denying
+~His ascetic life is the main reason he inspired so many followers, especially since he gave up wealth and power to live in poverty.
+~Meanwhile, Buddhist priests denounce the excess surrounding a festival commemorating a man who shunned his family fortune for an ascetic life, saying the waste around Vesak has become too much.
 
 $assuage
+$assuaged
+$assuaging
 >v. to provide relief from an unpleasant feeling
 >v. to satisfy a need or appetite
+~He tried to assuage the guilt of wrongdoing by doing right.
+~In order to assuage the temperamental child, the mother let him pick out a piece of candy.
 
 $astonishment
 >n. total surprise, shock
+~I saw an old man the other day, to my astonishment, making the holes with a hoe for the seventieth time at least, and not for himself to lie down in!
+~Her astonishment, when she felt the tiny creature inside, cannot be put in a letter.
 
 $audacious
 >adj. very bold or presumptuous
+~As all of the other campers cowered in their tents, Bill, armed only with a flashlight, audaciously tracked down the bear that had raided their food.
+~This is an audacious claim, and Kramer anticipates, even encourages, the controversy it might provoke.
 
 $austere
 >adj. severe, unadorned
+~The principal of my elementary school was a cold, austere woman; I could never understand why she chose to work with children.
+~Late Soviet architecture, although remaining largely austere, moved into experimental territory that employed previously unused shapes and structures.
 
 $avarice
 >n. greed
+~The Spanish conquistadors were known for their avarice, plundering Incan land and stealing Incan gold.
+~Famine, the avarice of the rich, and the necessity of providing tribute had brought the humbler classes to the lowest straits.
 
 $aver
+$averred
+$averring
 >v. to assert or allege
+~“I am innocent,” he averred.
+~He averred that he was innocent.
 
 $banal
 >adj. boring, clichÃ©
