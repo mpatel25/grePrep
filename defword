@@ -100,10 +100,10 @@ def createOptions(key):
 
 def displayResponse(key, options):
     global wordDefDict
-    print(key)
+    print(wordDefDict[key])
     print('')
     for i in range(0, len(options)):
-        print ((i+1), wordDefDict[options[i]])
+        print ((i+1), options[i])
     return getch()
 
 def clearScreen():
