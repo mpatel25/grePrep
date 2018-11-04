@@ -1,0 +1,103 @@
+#!/usr/bin/env python3
+
+import sys
+from os import system, path
+import random
+
+wordDefSentDict = {}
+wordList = []
+gameWordSentenceDefList = []
+
+ALT_KEY = 0
+SENT_KEY = 1
+DEF_KEY = 2
+
+def createDictFromVocabFile():
+    global wordDefSentDict
+    global wordList
+    try:
+        if path.exists(sys.argv[1]):
+            with open(sys.argv[1], 'r') as vocabFile:
+                vocabRaw = vocabFile.read()
+        else:
+            raise ValueError("File not found.")
+    except IndexError:
+        raise IndexError("Please enter vocab file.")
+    for chunks in vocabRaw.split("\n\n")[:-1]:
+        info = chunks.split("\n")
+        word = info[0].replace("$","")
+        alts = list(filter(lambda i: i[0] == "$", info))
+        alts = [i[1:] for i in alts]
+        defs = list(filter(lambda i: i[0] == ">", info))
+        defs = [i[1:] for i in defs]
+        sents = list(filter(lambda i: i[0] == "~", info))
+        sents = [i[1:] for i in sents]
+        wordDefSentDict[word] = [alts, sents, defs]
+        wordList.append(word)
+
+def setupGame():
+    global wordList
+    global gameWordSentenceDefList
+    start = 0
+    end = len(wordList)
+    try:
+        start = wordList.index(sys.argv[2])
+    except ValueError:
+        raise ValueError("Invalid start word.")
+    except IndexError:
+        pass
+    try:
+        end = wordList.index(sys.argv[3])
+        end += 1
+    except ValueError:
+        raise ValueError("Invalid end word.")
+    except IndexError:
+        pass
+    for words in wordList[start:end]:
+        sent = random.choice(wordDefSentDict[words][SENT_KEY])
+        alt = ""
+        for alts in wordDefSentDict[words][ALT_KEY]:
+            if alts in sent:
+                alt = alts
+        defs = wordDefSentDict[words][DEF_KEY]
+        gameWordSentenceDefList.append((alt,sent,defs))
+        
+def displayResponse(key):
+    print (key[SENT_KEY].replace(key[ALT_KEY], "_"*len(key[ALT_KEY])))
+    print ()
+    print (key[DEF_KEY])
+    print ()
+    return input()
+
+def clearScreen():
+    system("clear")
+
+def playGame():
+    global wordDefSentDict
+    global wordList
+    global gameWordSentenceDefList
+    remainingWords = list(gameWordSentenceDefList)
+    random.shuffle(remainingWords)
+    clearScreen()
+    while remainingWords:
+        key = remainingWords.pop()
+        answer = key[ALT_KEY]
+        response = ""
+        answerCount = 0
+        while response != answer:
+            print(answer if answerCount else "")
+            response = displayResponse(key)
+            clearScreen()
+            if response.lower() == "exit":
+                exit()
+            answerCount += 1
+
+def main():
+    createDictFromVocabFile()
+    setupGame()
+    playGame()
+
+if __name__ == '__main__':
+    main()
+
+
