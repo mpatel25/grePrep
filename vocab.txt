@@ -245,35 +245,66 @@ $averring
 ~He averred that he was innocent.
 
 $banal
->adj. boring, clichÃ©
+>adj. repeated too often; overfamiliar through overuse
+>adj. boring, clichÃ
+~The professor used such banal expression that many students in the class either fell asleep from bordeom or stayed awake to complete his sentences and humor friends.
+~How can one enjoy banal romance novels when they are so predictable?
 
 $belie
+$belies
+$belied
+$belying
 >v. give a false impression (intentional or unintentional) in word, appearance, or deed
+~The smile on her face belies the pain she must feel after the death of her husband.
+~Because the large man wanted to belie his gentle personality, he often spoke in a rough tone of voice.
 
 $benign
 >adj. gentle, harmless
+~I remember my grandfather's face was wrinkled, benign, and calm.
+~When the doctor said my tumor was benign, I was so happy.
 
 $biased
 >adj. prejudiced, displaying partiality
+~Where religion is concerned, travellers in general and missionaries in particular are biased in several distinct ways.
+~I am willing to believe that history is for the most part inaccurate and biased.
 
 $bolster
->v. to shore up or support
+$bolsters
+$bolstered
+$bolstering
+>v. support and strengthen
+~The case for the suspect's innocence was bolstered considerably by the fact that neither fingerprints nor DNA were found at the scene.
+~Free tickets were given away to bolster attendance at the game.
 
 $bombastic
 >adj. overblown, theatrical
+~Determined to gain his girlfriend’s forgiveness, the teenager made a bombastic declaration in front of the entire school.
+~His bombastic rant made her rethink her decision to go on a date with him.
 
 $brazen
 >adj. bold or open to the point of shocking
 >adj. shameless
+~In a brazen assault, the gang fired their weapons at the policeman.
+~When the actress took off her blouse in public, she shocked everyone with her brazen behavior.
 
 $bucolic
->adj. pastoral, rustic, countryfied
+>adj. relating to the pleasant aspects of the countryside and country life.
+~The postcard image was beautiful and featured a bucolic white house in a dark green pasture.
+~Even though I was born in the city, I still prefer the quiet of a small bucolic village any day.
 
 $burgeon
+$burgeons
+$burgeoned
+$burgeoning
 >v. flourish, bloom, expand or increase quickly
+~As car prices go down, car dealers are expecting sales to burgeon.
+~China's housing market is burgeoning, but some predict that the growth is merely a bubble and will burst much like the U.S. real estate bubble of 2008.
+~Unless the president does something about unemployment soon, feelings of discontent will burgeon among voters.
 
 $cacophony
 >n. loud and chaotic noise
+~Sometimes, it seems as though the dogs in our neighborhood bark together to create a cacophony that wakes me up every morning.
+~When the actor walked into the theater, there was a cacophony of screams from the reporters.
 
 $calumny
 >n. lie or slander
