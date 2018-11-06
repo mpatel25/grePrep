@@ -307,47 +307,84 @@ $cacophony
 ~When the actor walked into the theater, there was a cacophony of screams from the reporters.
 
 $calumny
->n. lie or slander
+>n. making of a false statement meant to injure a person"s reputation
+~With the presidential primaries well under way, the air is thick with calumny, and the mud already waist-high.
+~The best way for you to defend yourself against calumny is by ignoring the false statements of others.
 
 $candid
 >adj. honest, open
+~Even with a perfect stranger, Charles was always candid and would rarely hold anything back.
+~Even though you may not like what I have to say about your husband, I must be candid about my feelings for him.
 
 $canon
 >n. accepted rules and tenets of a discipline
 >n. sacred works/scripture; in this sense it is also used to refer to notable literary and artistic works of a culture or discipline
+~The Church's canon law forbids remarriage of divorced persons.
+~'Wuthering Heights' is a central book in the canon of English literature.
 
 $capacity
 >n. the capability to perform a particular action or fulfill a given function
 >n. the total amount a container can hold
 >n. a particular position or role (i.e. â€œshe served in an advisory capacityâ€)
+~The hotel is booked to capacity and has no available rooms.
+~Does he have the capacity to handle this job?
+~He was acting in place of sherief's capacity as judge, jury, and executioner.
 
 $capricious
 >adj. mercurial, unpredictable, whimsical
+~But Henry, despite a violent and capricious temper, had a strong taste for the work of a legislator and administrator.
+~Since she is known for capricious behavior, Katie's friends were nervous to tell her the bad news.
 
 $castigate
+$castigates
+$castigated
+$castigating
 >v. to scold or berate strongly
+~My mother was a cruel woman who never missed an opportunity to castigate my father.
+~Drill sergeants are known to castigate new recruits so mercilessly that the latter often break down during their first week in training.
 
 $catalyst
 >n. something that speeds up a process or causes action
+~The enzyme was the catalyst that triggered the chemical reaction. 
+~Fortunately for battery manufacturers, the ice storm was a catalyst for increased battery sales.
 
 $caustic
 >adj. corrosive
 >adj. bitterly sarcastic
+~The chemical was so caustic that it ate through the pipe.
+~Because my uncle was a mean man, he took pleasure in making caustic statements to people.
 
 $censure
+$censures
+$censured
+$censuring
 >v. to express intense condemnation
+~After being caught in bed with a mistress, the mayor was quickly censured by the city council.
+~The health department will censure any restaurants that do not have clean facilities.
 
 $chauvinist
 >n. someone who believes prejudicially that their own group is the superior one
+~The chauvinist lives on both sides of the political spectrum, outright shunning anybody whose ideas are not consistent with his own.
+~Some people consider my sister to be a chauvinist when it comes to feminism, as she gets both angry and irritated when someone opposes her point of view.
 
 $chicanery
 >n. trickery or deception
+>n. the use of deception or subterfuge to achieve one's purpose.
+~Our city council is full of chicanery, telling citizens a tax increase is now necessary though this wasn't the case 2 weeks ago.
+~You can smell the chicanery from a dishonest politician.
 
 $chronological
 >adj. ordered by time
+~The easiest way to comprehend history is in chronological order, learning of events in the order that they happened in time.
+~If you are having trouble comprehending an array of events, you should organize them in chronological order so you can know what happened first and last.
 
 $coalesce
+$coalesces
+$coalesced
+$coalescing
 >v. to come together, esp. from disparate parts
+~Over time, the various tribes coalesced into a single common culture with one universal language.
+~Olivia stared into the distance and concentrated, hoping that all her random thoughts would somehow coalesce into one brilliant idea.
 
 $cogent
 >adj. clearly laid out and persuasive
