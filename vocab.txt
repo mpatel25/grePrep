@@ -388,39 +388,78 @@ $coalescing
 
 $cogent
 >adj. clearly laid out and persuasive
+~A cogent argument will change the minds of even the most skeptical audience.
+~Because the child was so young, I worked hard to give her cogent answers to her questions.
 
 $commensurate
 >adj. in accordance with, proportional
+~The convicted felon's life sentence was commensurate to the heinousness of his crime.
+~You will get a salary increase commensurate with your additional responsibilities and work.
+~A punishment of 10 years in prison with hard labor for stealing a loaf of bread is not commensurate with the crime.
 
 $compelling
 >adj. captivating
 >adj. very persuasive
+~The music was so compelling the snake stopped watching its prey and began to sway.
+~The jury seemed moved by the lawyer’s compelling argument.
 
 $comprehensive
 >adj. complete and thorough
+~Because I want the car completely repainted, I have purchased the comprehensive auto package.
+~The lengthy report is a comprehensive survey of the funds, materials, and labor needed to build the new highway.
 
 $condone
+$condones
+$condoned
+$condoning
 >v. to approve or allow
+~We will not condone disorderly conduct at church.
+~While we condone free speech, we do not condone slander.
 
 $confound
+$confounds
+$confounded
+$confounding
 >v. to confuse or astonish
+~If the nurse does not read the labels, she will confound the medications and possibly harm patients.
+~The success of the show confounded critics.
+~Though Harry loved numbers, he found calculus confounding.
 
 $connoisseur
 >n. an expert in a particular subject matter area, usually relating to the fine arts or cultural pursuits
+~Because the psychologist talks to many individuals, she considers herself to be a connoisseur of people and their relationships.
+~If you are a beer connoisseur, you will enjoy a tour of our local brewery.
+~Louis is a connoisseur of fine art and rarely misses an exhibit at the art museum.
 
 $consequential
 >adj. as a result of
 >adj. significant or memorable
+~One of the senator’s more consequential initiatives involved the ending of slavery.
+~Because lives are at stake, choosing to go to war is the most consequential decision a nation can make.
+~Waist to Hip Ratio Method: While this is not considered a true body fat calculator, it is an easy, no cost way of assessing your body's tendency toward fat distribution and consequential health risks.
 
 $construe
+$construes
+$construed
+$construing
 >v. to interpret
+~We were all amazed by the detective’s ability to construe logic out of the killer’s strange riddle.
+~How are we supposed to construe the meaning of Janey’s statement when we cannot question her about it?
+~Although I tried to pay you a compliment, you have decided to construe my words as an insult.
 
 $consumption
 >n. utilization (esp. of a resource)
+~The consumption of large amounts of fat can trigger cardiovascular disease.
+~If mankind doesn’t slow down its consumption of natural resources, it will soon deplete the planet’s supply.
 
 $contend
+$contends
+$contended
+$contending
 >v. assert or claim
 >v. grapple with
+~These people contend that they have earned the right to the land. 
+~The team is expected to contend for the championship this year.
 
 $contentious
 >adj. controversial
