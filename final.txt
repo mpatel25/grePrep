@@ -1079,7 +1079,7 @@ $credencing
 ~Even though my daughter swore she told me the truth, I could not give any credence to her story about aliens eating the last slice of pie.
 
 $credulous
->adj. gullible, naÃ¯ve
+>adj. gullible, naive
 ~Because my brother is a credulous consumer, he is a salesperson’s dream. 
 ~The con man was able to easily sell his wonder products to credulous buyers.
 ~For the most part, credulous individuals will believe anything they are told.
@@ -2353,7 +2353,7 @@ $inferring
 ~We were able to infer from her style of dress that she was a very wealthy lady.
 
 $ingenuous
->adj. naÃ¯ve or innocent
+>adj. naive or innocent
 ~Jessica’s ingenuous nature made her an easy target for the con man.
 ~While I do not consider myself ingenuous, I do not mind giving everyone at least one chance to do good.
 ~The little boy’s ingenuous habit of constantly telling the truth made him unpopular at school.
@@ -2810,9 +2810,9 @@ $munificent
 ~All of the employees were pleased with their munificent bonuses.
 ~The school’s munificent supporters have donated over two million dollars to the building of the new gymnasium. 
 
-$naÃ¯ve
+$naive
 >adj. inexperienced or gullible
-naÃ¯ve
+naive
 
 $nascent
 >adj. just beginning or in the early stages
