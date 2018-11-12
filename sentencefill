@@ -57,7 +57,7 @@ def setupGame():
         sent = random.choice(wordDefSentDict[words][SENT_KEY])
         alt = ""
         for alts in wordDefSentDict[words][ALT_KEY]:
-            if alts in sent:
+            if alts in sent.lower():
                 alt = alts
         defs = wordDefSentDict[words][DEF_KEY]
         gameWordSentenceDefList.append((alt,sent,defs))
