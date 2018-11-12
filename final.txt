@@ -65,7 +65,10 @@ $abstains
 $abstained
 $abstaining
 >v. to voluntarily refrain from doing something
-abstain
+~Because of my health, I am going to abstain from the consumption of alcoholic beverages.
+~Janet will abstain from smoking while she is pregnant.
+~If you want to lose weight, you should abstain from large amounts of junk food.
+~I will give my husband one hundred dollars if he can abstain from using profanity for a week.
 
 $acumen
 >n. keen judgment and perception
@@ -101,7 +104,10 @@ $adulterates
 $adulterated
 $adulterating
 >v. to contaminate or make impure by introducing inferior elements
-adulterate
+~If you want to adulterate your alcoholic drink, you should add some water to it.
+~The restaurant was fined for trying to adulterate the beef with cheap meats.
+~The evil pharmacist was arrested after he tried to adulterate the cancer medicines for profit.
+~As the parent of a young child, I often adulterate the apple juice in my house with water.
 
 $advocate
 $advocates
@@ -176,7 +182,11 @@ $alleviates
 $alleviated
 $alleviating
 >v. to relieve a problem or ease a burden
-alleviate
+~To alleviate hunger in our town, each employee of our company donated five cans of food.
+~Scared of heights all her life, nothing would alleviate Ruth's fear of flying.
+~One local factory will alleviate the town's job shortage by providing 250 more jobs.
+~Drink plenty of water to alleviate dehydration.
+~Listening to soothing music will not only alleviate stress, but it will help you connect to your inner peace.
 
 $amalgamate
 $amalgamates
@@ -197,7 +207,10 @@ $amalgamating
 $ambiguous
 >adj. unclear
 >adj. open to multiple interpretations
-ambiguous
+~Because his driving directions are ambiguous, I use my reliable map.
+~It is impossible to assemble a bed frame with ambiguous instructions.
+~If our government rewrote poorly defined, ambiguous laws, people would better understand them.
+~If your question was less ambiguous, I could better answer it.
 
 $ambivalent
 >adj. having mixed or contradictory feelings about someone or something
@@ -230,7 +243,11 @@ $ameliorating
 
 $amenable
 >adj. easily convinced or persuaded
-amenable
+~My husband never complains about anything and is amenable to all my vacation suggestions.
+~Even though these budget cuts are necessary, I know most of the staff will not be amenable to the cutbacks.
+~As a wedding planner, I prefer to work with women who are amenable to hearing my ideas.
+~Tom’s five-year-old daughter was not amenable to the idea of postponing her birthday party.
+~For the class project, Josh was more amenable to writing a long essay than he was to creating a short film.
 
 $anachronism
 >n. something old-fashioned
@@ -539,7 +556,11 @@ $benign
 
 $biased
 >adj. prejudiced, displaying partiality
-biased
+~After a long court battle, the firm was found guilty of showing bias against females in its promotion practices.
+~Your bias against male nannies is causing you to ignore the best caregiving option for your infant.
+~As a judge, Mary cannot let her personal bias lead her to make an unfair ruling.
+~Do you feel the reporter showed bias against males when she only interviewed female nurses?
+~While you made several valid points on why women should not be allowed in combat, you should know your beliefs are viewed by many as bias.
 
 $bolster
 $bolsters
@@ -659,7 +680,10 @@ $candid
 $canon
 >n. accepted rules and tenets of a discipline
 >n. sacred works/scripture; in this sense it is also used to refer to notable literary and artistic works of a culture or discipline
-canon
+~The fifth canon provides that those, whether clerics or laymen, who are cut off from communion in any particular province are not to be admitted thereto elsewhere.
+~Canon 13 of the first council of Orleans, which has been cited in this matter, seems to have no application.
+~The priest referred to the canon of morality when he stated the church's position on abortion.
+~The player's use of steroids violates the team's canon of conduct.
 
 $capacity
 >n. the capability to perform a particular action or fulfill a given function
@@ -732,7 +756,11 @@ $censures
 $censured
 $censuring
 >v. to express intense condemnation
-censure
+~The pharmacy board will censure the pharmacist for not properly monitoring his drug supply.
+~If you are caught driving without a license, a censure from a police officer will be the least of your worries.
+~After breaking curfew, the player can expect to receive a censure from his coach.
+~The student will receive a censure for disrupting the school play.
+~Because Jack cheated on his teacher’s exam, he will receive a censure from the state board that will prevent him from teaching for two years.
 
 $chauvinist
 >n. someone who believes prejudicially that their own group is the superior one
