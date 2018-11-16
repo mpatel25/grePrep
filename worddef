@@ -122,12 +122,16 @@ def playGame():
     remainingWords = list(gameList)
     random.shuffle(remainingWords)
     clearScreen()
+    totalCount = 0
     while remainingWords:
         select = chr(0)
         key = remainingWords.pop()
         options = createOptions(key)
         selectAnswer = chr(49 + options.index(key))
+        totalCount += 1
         while select != selectAnswer:
+            print(totalCount)
+            print()   
             select = displayResponse(key, options)
             clearScreen()
             if select == chr(27):

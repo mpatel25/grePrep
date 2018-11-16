@@ -86,13 +86,18 @@ def playGame():
     remainingWords = list(gameWordSentenceDefList)
     random.shuffle(remainingWords)
     clearScreen()
+    totalCount = 0
     while remainingWords:
         key = remainingWords.pop()
         answer = key[ALT_KEY]
         response = ""
+        totalCount += 1
         answerCount = 0
         while response != answer:
-            print(answer if answerCount else "")
+            print(totalCount)
+            print()
+            print(answer if answerCount else "__answer__")
+            print()
             response = displayResponse(key)
             clearScreen()
             if response.lower() == "exit":
