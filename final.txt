@@ -95,7 +95,6 @@ $admonishing
 ~Critics always admonish me for my pitchy singing.
 ~Instead of applauding Jake for that poorly written speech, admonish him.
 ~My drama teacher would admonish students for repeatedly forgetting the lines.
-~Admonish Kimberly for leaving crumbs all over the place!
 ~How am I not going to admonish you for misbehaving at school?
 ~Dad is going to admonish you for not doing the chores.
 
@@ -232,14 +231,11 @@ $ameliorating
 >v. to improve or mitigate a situation
 ~Scratching your eye will not ameliorate the itching.
 ~In an attempt to ameliorate the situation, Superman flew into action and saved the young woman from the villan.
-~Ameliorate your singing by taking a few vocal lessons.
 ~Tylenol is the medication I take to ameliorate leg pain.
 ~Not only did you ameliorate your grades, but you also found a way to enjoy learning.
-~Ameliorate the relationship with your distant mother by sending a letter.
 ~If your back hurts, then consider lying on a hardwood floor to ameliorate back pain.
 ~In an effort to ameliorate his crying little sister, he apologized and gave her a shiny nickel.
 ~Raising money for Africa can ameliorate the hunger crises.
-~Ameliorate your handwriting, because I can barely decipher the text! 
 
 $amenable
 >adj. easily convinced or persuaded
@@ -387,9 +383,6 @@ $arduous
 ~Playing the piano may seem arduous at first, but it gets easier with practice.
 ~Driving a school bus is much more arduous than driving my own car. 
 ~Needless to say, mastering a foreign language is an arduous challenge.
-~Reading and understanding John Milton
-~s writing is not easy - it
-~s arduous!
 ~One of the most arduous questions to answer is, "Where did we all come from?"
 ~Job seekers with a criminal record will have an arduous time obtaining a job.
 ~With arduous practice, you will get better at cooking.
@@ -548,13 +541,13 @@ $benign
 ~The eco-friendly company will only drill for oil in areas where its practices are benign.
 ~Even though the company claims the energy drink is benign, you may experience some unwanted side effects after drinking the beverage.
 ~Your skin condition is benign and requires no medical attention at all.
-~You have nothing to fear from the elderly woman
-~s benign cough.
+~You have nothing to fear from the elderly woman's benign cough.
 ~Check with your doctor immediately to see if the mole on your face is benign or dangerous!
 ~Because the new tax laws were voted in at the last moment, we can assume their effects will not be nearly as benign as Congress suggests.
 ~Hopefully, the alarm on my car is going off for a benign reason.
 
 $biased
+$bias
 >adj. prejudiced, displaying partiality
 ~After a long court battle, the firm was found guilty of showing bias against females in its promotion practices.
 ~Your bias against male nannies is causing you to ignore the best caregiving option for your infant.
@@ -687,12 +680,12 @@ $canon
 $capacity
 >n. the capability to perform a particular action or fulfill a given function
 >n. the total amount a container can hold
->n. a particular position or role (i.e. â€œshe served in an advisory capacityâ€)
-~The water bottle’s capacity is thirty-two ounces.
+>n. a particular position or role (i.e. "she served in an advisory ________")
+~He was acting in his capacity as judge.
+~Does he have the capacity to handle this job?
 ~When the restaurant exceeded capacity with an extra large crowd, it was fined by the fire department. 
 ~The hotel is booked to capacity and has no available rooms.
 ~Once the pantry’s redesign is complete, the small room will have an increased capacity that will allow for additional storage. 
-~Including crew, the plane’s capacity is 279 persons.
 
 $capricious
 >adj. mercurial, unpredictable, whimsical
@@ -742,13 +735,11 @@ $caustic
 ~The comic’s caustic jokes offended quite a few people.
 ~Being caustic to the receptionist is not going to get you in the doctor’s office any sooner.
 ~After waiting over an hour for my food, I became caustic with the waitress.
-~Her caustic remarks made me sad.
-~Because my uncle was a mean man, he took pleasure in making caustic statements to people.
-~Jerry’s caustic tongue often got him into trouble.
-~Even though you are upset, you should realize that making caustic comments is not helping the situation.
-~Elizabeth’s caustic personality makes her ill-suited to be a flight attendant. 
-~Although Jill made a caustic remark about her boss, she does not deserve to lose her job.
-~When Harold is in a bad mood, he can be very caustic with his wife. 
+~Roosevelt's caustic cousin, Alice Roosevelt Longworth, called him a sissy and a mama's boy.
+~Acid is caustic.
+~Acid is caustic.
+~Acid is caustic.
+~Acid is caustic.
 
 $censure
 $censures
@@ -773,13 +764,7 @@ $chicanery
 >n. trickery or deception
 ~You can smell the chicanery from a dishonest politician. 
 ~That republican is up to his old chicanery, blaming all democrats for the recession.
-~Our city council is full of chicanery, telling citizens a tax increase is now necessary though this wasn
-~t the case 2 weeks ago.
-~People don
-~t trust you because of your chicanery.
 ~Let us expose that business for its financial chicanery and reveal how they waste our tax dollars.
-~Instead of dealing with my lawyer
-~s chicanery, I will hire another.
 ~Instead of being truthful on his campaign for sheriff, he resorted to chicanery.
 ~Rod Blagojevich, who tried to sell his senate seat, is a man of chicanery.
 ~Stop with the chicanery and be honest with your people, Governor!
@@ -810,20 +795,16 @@ $coalescing
 ~At first, the artist’s canvas just looked like a mass of random splotches of color, but with a few brushstrokes he made them coalesce into a beautiful landscape right before our eyes.  
 
 $cogent
->adj. clearly laid out and persuasive
+>adj. clear and persuasive
 ~Because the child was so young, I worked hard to give her cogent answers to her questions.
-~s cogent statement about my strong need for the surgery.
 ~An experienced speaker, John knew how to deliver a cogent presentation that would easily engage his audience.
-~The angry husband hired a detective to find cogent proof of his wife
-~s extramarital affair.
+~The angry husband hired a detective to find cogent proof of his wife's extramarital affair.
 ~As you speak to the sick and elderly, try and make all of your statements cogent so they will not have to struggle to accept your ideas.
-~The politician
-~s cogent argument against the war won him many votes in the election.
+~The politician's cogent argument against the war won him many votes in the election.
 ~Although I normally do not like science fiction movies, this film was cogent and easy for me to accept as true.
 ~Frank knew he could only win the debate competition if he presented a cogent position to the judges.
 ~When the homebuilder did not provide me with a cogent answer to my question, I knew he was not the right person to build my family home.
-~The jury will vote in favor of the defendant only if he prosecutor does not provide cogent evidence of the man
-~s guilt.
+~The jury will vote in favor of the defendant only if the prosecutor does not provide cogent evidence of the man's guilt.
 
 $commensurate
 $commensurates
@@ -916,7 +897,7 @@ $construe
 $construes
 $construed
 $construing
->v. to interpret
+>v. interpreted in a particular way
 ~We were all amazed by the detective’s ability to construe logic out of the killer’s strange riddle.
 ~How are we supposed to construe the meaning of Janey’s statement when we cannot question her about it?
 ~Although I tried to pay you a compliment, you have decided to construe my words as an insult.
@@ -942,15 +923,12 @@ $contended
 $contending
 >v. assert or claim
 >v. grapple with
-~During the trial, the defense attorney will contend his client is innocent because he was out of state when the murder was committed.
 ~Many of the politicians who are opposing the bill contend it will harm the middle class.
 ~If you argue with Janet, she will always contend you are in the wrong.
 ~The environmentalists contend the marine ecosystem is being destroyed at an alarming rate because of human pollution.
 ~After the call was made against his team, the coach tried to contend with the stubborn referee.
-~The parent watch groups contend the show should be taken off the air because it encourages children to use drugs.
 ~To obtain custody of her children in the divorce, Bridgett will contend her husband is an abusive man.
 ~Opponents of the highway project contend it will bring more crime to the neighboring towns.
-~According to the news, the singers’ lawyer will contend in court that their music label owes them millions of dollars in royalty payments. 
 ~The politician who lost the election will contend his loss occurred because a number of absentee ballots were accidentally destroyed.
 
 $contentious
@@ -972,8 +950,7 @@ $contrite
 ~The local news was noticeably contrite and apologized to viewers for the countless on-air technical difficulties.
 ~The guilty defendant seemed contrite for his actions, crying a river in front of everyone, and he even went as far as requesting 500 hours community service.  
 ~Because he wasn’t contrite, the judge sentenced the unremorseful man to the maximum number of years.
-~Don
-~t you have any contrite in your heart for murdering my brother?!
+~Don't you have any contrite in your heart for murdering my brother?!
 ~The unrepentant husband remained contrite even when faced with the damaged his affair had caused.
 ~If you were contrite, you would have said "I
 ~m sorry" by now instead of being so stubborn.
@@ -1005,11 +982,8 @@ $copious
 ~With your copious free time this week, you should be volunteer at the homeless shelter.
 ~After receiving copious letters from viewers, the network revived the cancelled show.
 ~From the copious number of comments, the controversial news piece became the highest discussed story of 2012.
-~If I were to list the copious reasons why I
-~m right and you
-~re wrong, we would be here all day.
-~Jane
-~s copious biography detailed the life as a young girl in the Bronx, to the struggles of obtaining an AARP membership.
+~If I were to list the copious reasons why I'm right and you're wrong, we would be here all day.
+~Jane's copious biography detailed the life as a young girl in the Bronx, to the struggles of obtaining an AARP membership.
 
 $cosmopolitan
 >adj. of or relating to a city or urban area
@@ -1091,7 +1065,7 @@ $credulous
 ~Because the credulous public wanted to believe the killer was off the streets, they never questioned the arrest of an innocent man.
 ~When she was younger, my baby sister was incredibly credulous and fell for all my tricks.
 
-$decorum
+$decorumbe
 >n. appropriate behavior or good manners
 ~Although Kelly was upset she did not win the contest, she maintained decorum and congratulated the winner.
 ~Not understanding decorum at a formal dinner, Jake ate his salad with his dinner fork.
