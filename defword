@@ -3,6 +3,7 @@
 import sys
 from os import system, path
 import random
+import textwrap
 
 #--------------GETCH-----------------------------------------------------
 class _Getch:
@@ -44,6 +45,8 @@ class _GetchWindows:
 
 getch = _Getch()
 #------------------------------------------------------------------------
+
+TEXTWRAP_LEN=45
 
 wordDefDict = {}
 wordList = []
@@ -98,12 +101,15 @@ def createOptions(key):
     random.shuffle(options)
     return options
 
+def wrapString(string):
+    return textwrap.fill(string, TEXTWRAP_LEN)
+
 def displayResponse(key, options):
     global wordDefDict
-    print(wordDefDict[key])
+    print(wrapString(str(wordDefDict[key])))
     print('')
     for i in range(0, len(options)):
-        print ((i+1), options[i])
+        print ((i+1), wrapString(options[i]))
     return getch()
 
 def clearScreen():

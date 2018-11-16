@@ -3,6 +3,7 @@
 import sys
 from os import system, path
 import random
+import textwrap
 
 wordDefSentDict = {}
 wordList = []
@@ -11,6 +12,8 @@ gameWordSentenceDefList = []
 ALT_KEY = 0
 SENT_KEY = 1
 DEF_KEY = 2
+
+TEXTWRAP_LEN=45
 
 def createDictFromVocabFile():
     global wordDefSentDict
@@ -54,18 +57,22 @@ def setupGame():
     except IndexError:
         pass
     for words in wordList[start:end]:
-        sent = random.choice(wordDefSentDict[words][SENT_KEY])
+        #sent = random.choice(wordDefSentDict[words][SENT_KEY])
+        sent = wordDefSentDict[words][SENT_KEY][random.randint(0, len(wordDefSentDict[words][SENT_KEY])-1)]
         alt = ""
         for alts in wordDefSentDict[words][ALT_KEY]:
             if alts in sent.lower():
                 alt = alts
         defs = wordDefSentDict[words][DEF_KEY]
         gameWordSentenceDefList.append((alt,sent,defs))
+
+def wrapPrint(string):
+    print(textwrap.fill(string, TEXTWRAP_LEN))
         
 def displayResponse(key):
-    print (key[SENT_KEY].replace(key[ALT_KEY], "_"*len(key[ALT_KEY])))
+    wrapPrint (key[SENT_KEY].replace(key[ALT_KEY], "_"*len(key[ALT_KEY])))
     print ()
-    print (key[DEF_KEY])
+    wrapPrint (str(key[DEF_KEY]))
     print ()
     return input()
 
