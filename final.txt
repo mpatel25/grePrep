@@ -172,9 +172,6 @@ $alacrity
 ~Because Jessica lacked alacrity in reading, her desire to finish the book diminished.
 ~Though he was filled with alacrity in the beginning, the tired wrestler’s eagerness was gone.
 ~With great alacrity, the eager cheerleader’s took the field.
-~While he once had the desire to learn Chinese, his alacrity to master the language faded after realizing how difficult it really is.
-~Waiting all her life for this moment, Susan Boyle sung 
-~I dream of dream
 
 $alleviate
 $alleviates
@@ -446,7 +443,6 @@ $astonishment
 >n. total surprise, shock
 ~The homeless man looked at me in astonishment when I gave him the bag of money.
 ~In astonishment the woman stared at the giant snake in her front yard.
-~Astonishment overwhelmed me when I realized I held the winning lottery ticket.
 ~With astonishment Jared read the letter notifying him of his college acceptance.
 ~We experienced a wave of astonishment as we stared at the magnificent waterfall.
 
@@ -579,7 +575,6 @@ $bombastic
 ~I cannot believe the minister’s bombastic sermon lasted three hours!
 ~The cheerleading squad led the crowd in bombastic cheers. 
 ~When Lawrence heard he won the scholarship, he let out a bombastic scream that startled his parents.
-~Bombastic by nature, Daryl did not fit in with the quiet chess players.
 ~If you want to sell your energy drink, then you must use bombastic claims in your commercials.
 ~The angry student made bombastic threats about blowing up the school. 
 ~Henry’s bombastic remarks about terrorism got him kicked off the airplane. 
@@ -591,7 +586,6 @@ $brazening
 >adj. bold or open to the point of shocking
 >adj. shameless
 ~In a brazen assault, the gang fired their weapons at the policeman.
-~Despite the fact the pirates are wanted by several governments, they continue to attack vessels off the coast of their native country.
 ~When the actress took off her blouse in public, she shocked everyone with her brazen behavior.
 ~The thieves were brazen enough to leave a mocking note for the investigators.
 ~If you wear that short dress to church, many people will consider you to be brazen.
@@ -611,8 +605,7 @@ $bucolic
 ~Because I am a city girl, I cannot wait to get away from this farm and this bucolic lifestyle!
 ~Sadly, big corporations do not seem to care about destroying bucolic environments to build big buildings.
 ~While I live in the city now, I grew up in a bucolic little town filled with valleys and hills.
-~I could not believe my sister
-~s vision of the perfect life included a bucolic house in the middle of nowhere. 
+~I could not believe my sister's vision of the perfect life included a bucolic house in the middle of nowhere. 
 ~The charming people of this town are just as much a part of the bucolic setting as the Southern mansions are.
 
 $burgeon
@@ -952,10 +945,8 @@ $contrite
 ~Because he wasn’t contrite, the judge sentenced the unremorseful man to the maximum number of years.
 ~Don't you have any contrite in your heart for murdering my brother?!
 ~The unrepentant husband remained contrite even when faced with the damaged his affair had caused.
-~If you were contrite, you would have said "I
-~m sorry" by now instead of being so stubborn.
+~If you were contrite, you would have said "I'm sorry" by now instead of being so stubborn.
 ~Though she claimed to be contrite, the woman was truly shameless.
-~Contrite tears poured from the husband when he revealed to his wife of committing infidelity.
 ~Since you wrote a contrite letter expressing remorse, I will forgive and accept you back into my life.
 ~When the guilty verdict was read, the defendant lowered her head to the ground, visibly contrite. 
 
@@ -1065,7 +1056,7 @@ $credulous
 ~Because the credulous public wanted to believe the killer was off the streets, they never questioned the arrest of an innocent man.
 ~When she was younger, my baby sister was incredibly credulous and fell for all my tricks.
 
-$decorumbe
+$decorum
 >n. appropriate behavior or good manners
 ~Although Kelly was upset she did not win the contest, she maintained decorum and congratulated the winner.
 ~Not understanding decorum at a formal dinner, Jake ate his salad with his dinner fork.
@@ -1096,10 +1087,15 @@ $deflecting
 ~Since the young child never filtered anything he said, the parents were ready to deflect any embarrassing topic the child would start to discuss.
 ~The troublemaking child could deflect any blame placed on him because he was so experienced at getting out of trouble.
 
-$deftness
+$deft
 >adj. skill, acumen
 >adj. manual dexterity
-deftness
+~The deft musician was able to play the harmonica and the piano at the same time.
+~Because Jake is a deft electrician, it will not take him long to rewire the electrical outlets in the bathroom.
+~Only a deft artist can perfectly capture the model’s figure in clay.
+~The only person who can successfully perform the tricky operation is a deft surgeon.
+~The politician is a deft speaker who can easily convince people to believe whatever he says.
+~Even though I enjoy baking at home, I am not deft enough to be a professional baker.
 
 $delineate
 $delineates
@@ -1175,7 +1171,10 @@ $desiccated
 $desiccating
 >v. to dry out completely
 >v. to suck out the vitality and passion
-desiccate
+~The man tried unsuccessfully to get water from the desiccated well.
+~Once the car factories closed, the residents left the desiccated city to look for work.
+~Since the roses have become desiccated, please throw them in the trash.
+~The professional soccer player became desiccated after being in a car accident that left him in a coma.
 
 $desultory
 >adj. halfhearted
@@ -1201,7 +1200,10 @@ $detachment
 
 $determinant
 >n. a strong factor in an outcome
-determinant
+~The main determinant of economic success is our ability to control inflation.
+~Education level is a determinant of future income.
+~Race, profession, geographical and socio-economic situation are not determinants of the disease.
+~Non-monetary working conditions are also important determinants of job satisfaction.
 
 $diatribe
 >n. a rant or angry speech denouncing someone or something
@@ -1214,8 +1216,7 @@ $diatribe
 ~In a lengthy diatribe, the reviewer made the public aware of his unflattering opinion of the film.
 ~The cult leader used religion to make a diatribe against the government.  
 ~As a part of her diatribe against local police officers, Mary launched a Website for police complaints.
-~Since the essay contained no objectivity at all, everyone assumed it was simply the critic
-~s personal diatribe.
+~Since the essay contained no objectivity at all, everyone assumed it was simply the critic's personal diatribe.
 
 $didactic
 >adj. educational or with an instructive purpose; often includes an element of moralizing
@@ -1338,8 +1339,6 @@ $disparaging
 ~He had some nerve to disparage the conservative way I dress at the beach.
 ~As a middle school teacher, I witness students verbally disparage each other on a daily basis.
 ~Lying is one surefire way to disparage your image.
-~Disparage my character, and I
-~ll pick at your flaws.
 ~What I never understand is why politicians disparage their opponents.
 ~Do not disparage your mother for making you do the chores.
 
