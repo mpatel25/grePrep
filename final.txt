@@ -1179,6 +1179,7 @@ $desiccating
 $desultory
 >adj. halfhearted
 >adj. inconsistent or random
+>adj. lacking a plan, purpose, or enthusiasm
 ~Because he was not happy with his pay increase, James made only a desultory effort to complete his duties at work.
 ~The students were confused by the teacher’s desultory lecture which seemed to have no real focus. 
 ~At the party, the unfriendly boy made desultory conversation with a few of the other children.
@@ -1207,6 +1208,7 @@ $determinant
 
 $diatribe
 >n. a rant or angry speech denouncing someone or something
+~Hitler's speeches were often diatribes to blame Jews for Germany's problems.
 ~Because Sheila was unhappy with the administration, she launched a lengthy diatribe against the board during lunch. 
 ~Upset about his demotion, Ed made an angry diatribe about his employer.
 ~The candidate made a diatribe against his opponent. 
