@@ -64,6 +64,7 @@ def setupGame():
         raise ValueError("Invalid end word.")
     except IndexError:
         pass
+    randomSeed()
     for words in wordList[start:end]:
         #sent = random.choice(wordDefSentDict[words][SENT_KEY])
         sent = wordDefSentDict[words][SENT_KEY][random.randint(0, len(wordDefSentDict[words][SENT_KEY])-1)]
@@ -73,7 +74,6 @@ def setupGame():
                 alt = alts
         defs = wordDefSentDict[words][DEF_KEY]
         gameWordSentenceDefList.append((alt,sent,defs))
-    randomSeed()
 
 def wrapPrint(string):
     print(textwrap.fill(string, TEXTWRAP_LEN))
