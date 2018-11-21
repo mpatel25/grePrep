@@ -2473,8 +2473,7 @@ $inveterating
 ~Mark is an inveterate liar who could not tell the truth even if you paid him.
 ~Although Hank was an inveterate peacemaker, he did not function well in his job as a mediator.
 ~Ginger is an inveterate reader who always has a book in her hands. 
-~As a nurse, Abigail has an inveterate desire to help others. 
-~Inveterate smokers are going to have a hard time handling all of the new smoking laws that limit the places in which they can smoke.
+~As a nurse, Abigail has an inveterate desire to help others.
 ~Since I am an inveterate skeptic, there is very little I will believe without proof.
 ~The inveterate inventor has made millions of dollars by selling numerous product designs. 
 ~Although Mark is twenty-eight years old, he is an inveterate slacker who has no wish other than to watch wrestling on television.
@@ -2517,13 +2516,11 @@ $irresolute
 $laconic
 >adj. taciturn, reserved, succinct
 ~During the laconic phone call, the divorcing spouses only said what was absolutely necessary.
-~The valedictorian delivered a laconic speech, contrast to the salutatorian
-~s lengthy speech. 
+~The valedictorian delivered a laconic speech, contrast to the salutatorian's lengthy speech. 
 ~The laconic language of the football players kept the other team from knowing the meaning of their talk.
 ~To save valuable time, give me a laconic explanation of what happened. 
 ~If you were laconic with your lectures, then we could leave class 15 minutes early. 
-~I don
-~t have all day, so be laconic with your answers.
+~I don't have all day, so be laconic with your answers.
 ~The writer was laconic when drafting the poem and used very few words in each line.
 ~During the play, the laconic monologues were direct and to the point.
 ~Most of the staff was laconic when speaking about the investigation and kept things hush-hush.
@@ -2765,8 +2762,7 @@ $mundane
 ~Though his friends were having a fun time at the bar, Kevin settled for a mundane evening at home.
 ~Going about his everyday routine, the man’s mundane schedule had him bored to tears.
 ~If you want to escape from the mundane, get out of this boring town!
-~Don
-~t settle for a mundane weekend on the couch - go skydiving!
+~Don't settle for a mundane weekend on the couch - go skydiving!
 ~I wish we had a dishwasher to handle the mundane task of washing dishes every night.
 ~The science experiment would be more interesting if the materials weren’t so mundane.
 ~Most of the movies showing are mundane and would put viewers to sleep rather than make them last.
@@ -2864,15 +2860,20 @@ $obdurating
 ~Even though his fellow teammates urged him to accept the new coach, the star basketball player remained obdurate and refused to follow the coach’s directions.
 ~The protestors were obdurate and did not move even when the police arrived.
 ~Will you stop being so obdurate and at least listen to my point of view?
-~Obdurate and quick to judge, the detective believed every suspect was guilty.
 
 $obscure
 $obscures
 $obscured
 $obscuring
->adj. mysterious or not well-known<div class='mailmunch-forms-in-post-middle' style='display: none !important;'></div>
+>adj. mysterious or not well-known
 >v. to cover something up or make it more difficult to perceive
-obscure
+~The obscure writer was not known in the literary community.
+~Because the millionaire was a shy man, he enjoyed living an obscure life in the country.
+~Today’s sighting is the first time Dr. Samuels has ever seen the obscure family of insects.
+~My teenage daughter feels obscure in her high school of three thousand students.
+~Everyone was shocked when the city council used an obscure rule to vote on the proposal without a majority of voters present.
+~I do not trust my mysterious neighbor because of his obscure background.
+~Although the new cancer drug has received a lot of interest from medical professionals, its side effects are obscure so the drug is still classified in the testing phase.
 
 $obsequious
 >adj. overly fawning and helpful in a way that is disingenuous
@@ -2890,7 +2891,6 @@ $obstinate
 >adj. stubborn, uncompromising
 ~Everyone described my grandfather as the most obstinate man alive!
 ~Although the little boy knew he was wrong, he was too obstinate to apologize to his parents.
-~Obstinate and unyielding, the judge refused to give the defendant credit for time served.
 ~The obstinate protestors refused to leave the office complex.
 ~How can you be so obstinate and lovable at the same time?
 ~The salesman was obstinate about the car’s price. 
@@ -2972,9 +2972,13 @@ $olfactory
 ~Because my olfactory stimuli are easily irritated by pollen, I usually sneeze a lot in the spring.
 ~My olfactory organ noticed the woman’s excessive use of perfume as soon as she walked into my home.
 
-$omniscience
->n. the quality or state of being all-knowing
-omniscience
+$omniscient
+>adj. all-knowing
+~He thinks he knows what is best for everybody, but as far I know he is not omniscient.
+~Without an omniscient narrator, the reader is intentionally left in the dark about the motivation of the antagonist until the very end of the story.
+~If the house had a brain, it would be omniscient because of all the cameras and communication devices in all the rooms.
+~Orwell’s disturbing novel, 1984, featured an omniscient government known as Big Brother who kept an eye on all the citizens of a dysfunctional country.
+~She claims to have psychic abilities, but she never said she was omniscient.
 
 $onerous
 >adj. difficult or burdensome
@@ -3007,7 +3011,9 @@ $opaquing
 
 $opportunism
 >n. the practice of taking advantage of opportunities as they arise without particular concern for morality or ethics
-opportunism
+~With the ferocious fanaticism or the ruthless opportunism of the future organizers of the Terror they had nothing in common.
+~Cynical opportunism often hides the despair.
+~This policy was not due to any belief on Henry's part in parliamentary government, but to opportunism, to the circumstance that parliament was willing to do most of the things which Henry desired, while competing authorities, the church and the old nobility, were not.
 
 $opprobrium
 >n. criticism or condemnation
@@ -3027,7 +3033,11 @@ $oscillates
 $oscillated
 $oscillating
 >v. to swing back and forth between two points, poles, or positions
-oscillate
+~Though you cannot see it, sound waves constantly oscillate as they travel through the air.
+~To aide with his hypnosis, the hypnotists oscillated a pocket watch in front of his patient.
+~As a demonstration, the science teacher placed a string on top of a speaker so his students could watch it oscillate.
+~Watching the readings from the earthquake, the scientist could easily see the intensity oscillate.
+~The professor explained that all waves oscillate at a different frequency.
 
 $ostentatious
 >adj. overly showy in a way that is gaudy or vulgar
@@ -3090,7 +3100,6 @@ $partisan
 ~Since the judge entered his fan vote before all the contestants had performed, everyone knew his partisan vote was for the competitor from his home state.
 ~Your partisan political views may cause you to overlook the best candidates at the polls. 
 ~If the senator wants to get the votes he needs on the bill, he is going to have to do a lot of partisan favors.
-~Partisan squabbling is preventing the council members from reaching a compromise on the budget.
 ~As a teacher, I do not let my partisan political views take priority over what my students need to learn in class. 
 ~While we went to the debate to hear open-minded solutions to the economic crisis, all we heard was partisan speeches from the two candidates. 
 ~If you continue to follow your partisan plan and ignore other options, you are going to lose a lot of friends.
@@ -3209,16 +3218,12 @@ $perusing
 >v. to read something carefully and closely
 >v. to read something informally or quickly
 >(context is critical for this word!)
-~Peruse the manual to set up your television.
 ~To see what entrées we have to offer this evening, peruse our menu.
-~Many employers will peruse an employee
-~s Facebook profile to what he/she does online.
+~Many employers will peruse an employee's Facebook profile to what he/she does online.
 ~I have included reference material in your packet to peruse.
 ~He is going to peruse the internet for tips on how to become a pilot.
 ~To properly cook the rice, peruse the cooking directions on the box.
-~The judge will want to peruse your incident report, so don
-~t forget to bring it!
-~Peruse the footnotes for additional commentary.
+~The judge will want to peruse your incident report, so don't forget to bring it!
 ~I am sitting in a waiting room with no magazine to peruse!
 ~It is nice to peruse the family photo album with my family.
 
@@ -3315,8 +3320,7 @@ $plausible
 
 $plethora
 >n. a surplus or overabundance of something
-~I don
-~t see why my mother wants more shoes when she already has a plethora of them.
+~I don't see why my mother wants more shoes when she already has a plethora of them.
 ~He eagerly accepted the job because it came with a plethora of opportunities.
 ~Even though the store claimed to have a plethora of bargains, my mother and I were unable to find a good deal.
 ~Despite the plethora of movies offered by the video store, Jason always rents the same movie over and over again.
@@ -3350,11 +3354,17 @@ $polarizes
 $polarized
 $polarizing
 >v. to cause a sharp division between two groups
-polarize
+~Public opinion has polarized on this issue.
+~The budget debate has served to polarize the country.
+~Riley’s film is guaranteed to polarize critics, and that’s just fine.
 
-$polemical
->adj. angry, hostile, harshly critical
-polemical
+$polemic
+>n. a strong verbal or written attack on someone or something.
+~Because I do not like to become involved in the conflicts of others, I refuse to listen to my office mate’s polemic about another employee.
+~The newspaper editor used his column to present a polemic that was a scathing attack against the city’s dishonest mayor.
+~When the principal received an anonymous polemic about her leadership skills, she urged the writer to meet her face-to-face.
+~The cartoonist’s latest sketch is a polemic that illustrates the island dictator as a toddler who constantly has tantrums.
+~The political candidate posted a polemic on his blog that mocked his rival’s lack of community service.
 
 $pragmatic
 >adj. practical
@@ -3380,12 +3390,7 @@ $precarious
 ~Unless we resolve this, our future looks precarious.
 ~Swimming without a life jacket is precarious.
 ~Gripping with a lack of shelter, homeless people live in precarious conditions.
-~Kelly
-~s health situation remains precarious as the cancer spreads to her brain.
-
-$preceded
->adj. went before
-preceded
+~Kelly's health situation remains precarious as the cancer spreads to her brain.
 
 $precipitate
 $precipitates
@@ -3420,8 +3425,7 @@ $precursor
 
 $prescient
 >adj. knowing things before they happen, prophetic
-~The psychic
-~s predictions were uncannily prescient and ended up proving true a few weeks later.
+~The psychic's predictions were uncannily prescient and ended up proving true a few weeks later.
 ~It seems that the weather man’s forecasts were prescient since it rained all weekend just like predicted.
 ~Extraordinarily prescient, the 1905 book accurately predicted what is going on in today’s times.
 
@@ -3528,7 +3532,12 @@ $profligates
 $profligated
 $profligating
 >adj. extravagant and wasteful, esp. in an immoral way
-profligate
+~After the millionaire saw evidence of his new wife's profligate spending, he quickly filed for a divorce.
+~During the mayor’s campaign, he swore to put an end to profligate government spending.
+~Tim made a lot of profligate purchases after winning the lottery.
+~While our employees have not received a pay raise in four years, our company president recently made a profligate statement by getting a private jet.
+~Entertainment magazines are filled with the profligate ways in which celebrities waste money.
+~My sister is profligate and wants to have only the best things in life.
 
 $proliferate
 $proliferates
@@ -3560,7 +3569,11 @@ $propitiating
 
 $propriety
 >n. appropriateness, manners, decorum
-propriety
+~After Harold wore a clown suit to his cousin’s funeral, we had to question his sense of propriety.
+~When I arrived at the meeting, I saw the directors were engaged in a heated debate over the treasurer's propriety to bookkeeping standards
+~Because she is an advice columnist who wants to teach people how to behave properly, Helen places emphasis on observing propriety.
+~When looking at Amy’s flimsy attire, it is evident her propriety is nearly nonexistent.
+~While teachers were once thought to be pictures of propriety, today they are often viewed as mean people without morals.
 
 $prospective
 >adj. potential or likely
@@ -3568,7 +3581,6 @@ $prospective
 ~Calculating his prospective earnings for the next six months was difficult since business tends to ebb and flow.
 ~All prospective meetings for the month of January and February will be put on hold until further notice.
 ~Without any prospective clients, the survival of the small firm did not look promising.
-~Prospective measures must be taken to make sure that future investments do not fail like the current ones. 
 ~Several prospective venues have been discussed but none have been selected yet.
 
 $qualification
