@@ -19,15 +19,12 @@ TEXTWRAP_LEN=45
 def createDictFromVocabFile():
     global wordDefSentDict
     global wordList
-    try:
-        if path.exists(sys.argv[1]):
-            with open(sys.argv[1], 'r') as vocabFile:
-                vocabRaw = vocabFile.read()
-        else:
-            raise ValueError("File not found.")
-    except IndexError:
-        raise IndexError("Please enter vocab file.")
-    for chunks in vocabRaw.split("\n\n")[:-1]:
+    if path.exists("database.txt"):
+        with open("database.txt", 'r') as vocabFile:
+            vocabRaw = vocabFile.read()[:-1]
+    else:
+        raise ValueError("Database.txt not found!")
+    for chunks in vocabRaw.split("\n\n"):
         info = chunks.split("\n")
         word = info[0].replace("$","")
         alts = list(filter(lambda i: i[0] == "$", info))
@@ -48,13 +45,13 @@ def setupGame():
     start = 0
     end = len(wordList)
     try:
-        start = wordList.index(sys.argv[2])
+        start = wordList.index(sys.argv[1])
     except ValueError:
         raise ValueError("Invalid start word.")
     except IndexError:
         pass
     try:
-        end = wordList.index(sys.argv[3])
+        end = wordList.index(sys.argv[2])
         end += 1
     except ValueError:
         raise ValueError("Invalid end word.")
