@@ -4,7 +4,7 @@ import sys
 from os import system, path
 import random
 import textwrap
-import time
+from datetime import datetime
 
 #--------------GETCH-----------------------------------------------------
 class _Getch:
@@ -73,11 +73,7 @@ def createDictFromVocabFile():
         wordList.append(word)
 
 def randomSeed():
-    t = int( time.time() * 1000.0 )
-    random.seed(((t & 0xff000000) >> 24) +
-                ((t & 0x00ff0000) >>  8) +
-                ((t & 0x0000ff00) <<  8) +
-                ((t & 0x000000ff) << 24)   )
+    random.seed(datetime.now())
 
 def setupGame():
     global wordList
