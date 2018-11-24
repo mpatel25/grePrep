@@ -2352,7 +2352,7 @@ $inimical
 ~Inimical forces have taken hostages within the bank.
 ~When Sarah did not receive her order on time, she became quite inimical.
 
-$Innocuous
+$innocuous
 >adj. harmless
 ~Because the virus was innocuous, the hospital staff had no need to worry about the leak.
 ~In the ring the wrestler appeared dangerous, but in reality, he was really innocuous.
@@ -2458,7 +2458,7 @@ $intrepid
 ~Even when the storm was directly over her house, the intrepid old woman did not panic.
 ~The intrepid adventurer climbed the rocky mountain without fear.
 ~Although Jason loves jumping out of airplanes, he does not consider himself to be as intrepid as a soldier in battle. 
-~I am far from intrepid but will not ride the roller coasters at our local amusement park.
+~I am far from intrepid and I will not ride the roller coasters at our local amusement park.
 ~Unlike her sister Mary, Sally was intrepid and had no problem going into the haunted house.
 ~Only intrepid people sign up to be on that reality show where people are stranded on a deserted island.
 ~The intrepid young boy walked through the forest alone to get his injured father medical aid. 
@@ -2555,6 +2555,7 @@ $laudable
 ~Since your great plan ends with me going to prison, I do not feel it is a laudable plan! 
 
 $litigation
+>n. the process of taking legal action
 >n. legal proceedings
 ~Charles entered into litigation when he opened a civil suit, attempting to hold his former employer liable for withholding wages.
 ~After spending money on litigation, our attorney informed us that the statute of limitations had been reached and that the lawsuit would be thrown out.
@@ -2601,9 +2602,15 @@ $luminous
 ~One luminous bulb produces enough light to brighten both the kitchen and the dining room. 
 ~Under the moonlight, Vivian appeared luminous in her white wedding gown.
 
-$magnanimity
->n. generosity and nobility of spirit
-magnanimity
+$magnanimous
+>n. very generous or forgiving
+~Even though the defendant had broken the law, the magnanimous judge gave him the lightest sentence possible.
+~Because she was kind and generous, the magnanimous queen was loved by all.
+~When looking at all the sports, it is easy to see that boxing is the least magnanimous to the loser.
+~Several magnanimous members of the congregation made sizable donations to rebuild the community center after the fire.
+~Everyone considers Joe magnanimous because he is always seeking out ways to serve his community.
+~How can you be so magnanimous towards Raymond when he constantly puts you down?
+~My minister is constantly urging us to be magnanimous to each other.
 
 $maladroit
 >adj. clumsy, awkward, inept
@@ -2623,15 +2630,13 @@ $maligning
 ~Because Jack was angry about losing his job, he tried to malign his former employer to anyone who would listen.
 ~Although the attorney was upset about the judge’s decision, he did not malign the judicial system when he talked to the media.
 ~When I was a child, my mother told me it was not nice to malign others because I would hate it if people talked unfairly about me.
-~Do not malign me simply because you are jealous of my wealth!
-~Because the candidate was worried about losing the election, he encouraged his  staff to openly malign his opponents.
-~Jessica decided to malign the other contestants to ensure she would win the beauty pageant. 
-~Even though the singer has served her jail time, the press continues to malign her on a daily basis. 
-~Although Michael probably should malign his ex-wife for cheating on him, he refuses to say a bad thing about her. 
-~People who malign others by telling falsehoods are usually unhappy with their own lives.
+~The malign effects of illicit drugs.
+~Both parties to the divorce showed a malign desire to make each other's future life utterly miserable.
+~Of course the fact is that so much money has gone to support malign activities elsewhere, with very little focus on the economy itself.
+~What is worth pondering is how a demagogue of Hitler’s malign skill might more effectively exploit flaws in American democracy.
 
 $malleable
->adj. pliant or pliable
+>adj. capable of being shaped or bent or drawn out
 >adj. easily influenced
 ~When my uncle drinks a great deal, he is always quite malleable to suggestions.
 ~Knowledge gives you power by making you less malleable to negative influences.
@@ -2710,7 +2715,7 @@ $mitigate
 $mitigates
 $mitigated
 $mitigating
->v. to Â improve a painful, unpleasant, or negative situation
+>v. to improve a painful, unpleasant, or negative situation
 ~The doctor gave me a prescription to mitigate the pain.
 ~When I was a kid, my mother’s voice used to always mitigate my stomach ache.
 ~The United Nations will try and mitigate the crisis between the two countries.
@@ -2783,7 +2788,16 @@ $munificent
 
 $naive
 >adj. inexperienced or gullible
-naive
+~The naive girl believed she could get pregnant by kissing.
+~While I may be a little naive, I do not believe in a giant rabbit that brings treats to kids on Easter Sunday. 
+~The naive old woman was the perfect target for a financial scam.
+~Because Jane grew up in a convent, she is very naive about life in the big city.
+~You are being naive if you think you can make a fortune without doing any work at all.
+~As long as you remain naive about the workings of the stock market, you will find it difficult to make a living as a stockbroker.
+~The naive toddler chose the shiny toy over the hundred-dollar bill.
+~Because Matt is naive, he really believes his wife has to work late every night at the library.
+~Only a naive person would believe the robber would walk into the bank and return the money he stole.
+~If you believe every word that politician says, then you are a very naive person.
 
 $nascent
 >adj. just beginning or in the early stages
@@ -2903,8 +2917,7 @@ $obviate
 $obviates
 $obviated
 $obviating
->v. to forestall the need for something
->v. to prevent
+>v. to prevent or eliminate
 ~We replaced the old mechanisms because we wanted to obviate any nervousness about potential breakdown.
 ~I tried to obviate my mother’s awkwardness with the cell phone by telling her it wasn’t necessary to hold it up to her mouth when she speaks into it.
 ~Because he wanted to obviate the strain of climbing the stairs, Dr. Johnson ordered the patient to have his bedroom furniture moved to the room on the bottom floor.
@@ -3011,12 +3024,14 @@ $opaquing
 
 $opportunism
 >n. the practice of taking advantage of opportunities as they arise without particular concern for morality or ethics
-~With the ferocious fanaticism or the ruthless opportunism of the future organizers of the Terror they had nothing in common.
+~It was, on all acceptable levels, a truly shameless, cruel and intellectually corrupt display of political opportunism.
 ~Cynical opportunism often hides the despair.
 ~This policy was not due to any belief on Henry's part in parliamentary government, but to opportunism, to the circumstance that parliament was willing to do most of the things which Henry desired, while competing authorities, the church and the old nobility, were not.
+~He disguises his opportunism in a perverse nationalism that spirals into bloodshed and debauchery.
 
 $opprobrium
->n. criticism or condemnation
+>n. a state of extreme dishonor
+>n. condemnation
 ~Ben’s criminal opprobrium nearly cost him the election.
 ~While my actions were inappropriate, I do not consider them an opprobrium which will ruin my reputation. 
 ~The celebrity chef earned opprobrium when she made a racial slur in front of the media.
