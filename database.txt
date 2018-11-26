@@ -3110,25 +3110,31 @@ $partial
 
 $partisan
 >n. a devoted supporter of a group, cause, or person
+>adj. prejudiced in favor of a particular cause
 ~Because of your partisan views, you are unwilling to look at other options.
 ~The partisan press members made a point of criticizing every move the president made.
 ~Since the judge entered his fan vote before all the contestants had performed, everyone knew his partisan vote was for the competitor from his home state.
 ~Your partisan political views may cause you to overlook the best candidates at the polls. 
-~If the senator wants to get the votes he needs on the bill, he is going to have to do a lot of partisan favors.
-~As a teacher, I do not let my partisan political views take priority over what my students need to learn in class. 
-~While we went to the debate to hear open-minded solutions to the economic crisis, all we heard was partisan speeches from the two candidates. 
-~If you continue to follow your partisan plan and ignore other options, you are going to lose a lot of friends.
-~Please listen to the entire suggestion before you decide to make a partisan issue out of one part of the proposal!
+~He declared himself a strong partisan of the union of the Left in what is known as the Bloc, in order to check the reactionary deputies of the Right.
+~A partisan of French methods, Moratin published in 1762 his Desengano al teatro espanol, a severe criticism of the national drama.
+~"Rebel " or " Partisan ."
+~Two of the Babenberg brothers were killed, and the survivor Adalbert was summoned before the imperial court by the regent Hatto I., archbishop of Mainz, a partisan of the Conradines.
 
 $patent
 $patents
 $patented
 $patenting
 >adj. blatant, obvious
+>n. an official document granting a right or privilege.
 ~After the consultation with a lawyer regarding my invention of a self-cleaning placemat, the lawyer explained that the patent would take years to acquire for my product.
 ~Many investors will require the designer to have a patent on their product so that no one else will be able to copy it.
 ~Cissy’s Cookie Company sued Union Desserts due to Cissy’s patent on her cookie cutters and finding out that Union has been manufacturing and selling the same cookie cutter.
 ~In the next few years, Sarah’s patent will expire and anyone could make and sell the printer that she first invented.
+~It was a patent lie.
+~It was patent to anyone that she disliked the idea.
+~Omissions are most patent perhaps in surveys made with a political bias.
+~This was patent nonsense.
+~Her reluctance to go made her heart ache, but the truth was patent.
 
 $paucity
 >n. scarcity, poverty
@@ -3263,6 +3269,7 @@ $phenomena
 
 $phlegmatic
 >adj. cool and unruffled
+>adj. showing little emotion
 ~The minister of my church is a phlegmatic man who never seems to get upset about anything.
 ~After our football coach was suspended because of his emotional outbursts, he went to therapy so he could work on being more phlegmatic.
 ~Even though Jeff is constantly being yelled at by his wife, he normally remains phlegmatic and does not get upset.
@@ -3279,11 +3286,14 @@ $piths
 $pithed
 $pithing
 >n. the essential substance of something
-~The heart of a watermelon is the best part because he pith tastes the best.
+~The heart of a watermelon is the best part because the pith tastes the best.
 ~Since I don’t like orange pith, I purchase non-pulp orange juice from the grocery store.
 ~Because the center of the meat is raw, make sure the pith isn’t bloody when served.
 ~Soft melon pith is the opposite of hard peeling.
-~The core of the cantaloupe is soft and sweet the pith is delicious.
+~The pith of his speech was focused on the importance of education.
+~Strengthen system building is the pith of modern political civilization.
+~The pith of that theory is serving for people.
+~The inmost, choicest, or essential part; the pith.
 
 $placate
 $placates
