@@ -502,7 +502,7 @@ $averring
 ~As the doctor can aver, you will feel much better if you eat healthier foods.
 
 $banal
->adj. boring, clichÃ©
+>adj. boring, cliche
 ~Because the movie’s plot was banal, we knew exactly how the film would end. 
 ~At nearly every meeting, he made that same banal speech. 
 ~I was bored to death because of his banal conversation.  
@@ -2063,7 +2063,7 @@ $guiling
 ~The rookie’s lack of guile made him an easy target for the veterans on the team.
 
 $hackneyed
->adj. clichÃ©, trite, banal
+>adj. cliche, trite, banal
 ~Too often used by young girls, the word “like” has become hackneyed.
 ~Every time my internet goes down, the cable company gives me a hackneyed explanation.
 ~Although I like him as a talk show host, his hackneyed catchphrase is starting to get on my nerves!
@@ -3117,7 +3117,7 @@ $partisan
 ~Your partisan political views may cause you to overlook the best candidates at the polls. 
 ~He declared himself a strong partisan of the union of the Left in what is known as the Bloc, in order to check the reactionary deputies of the Right.
 ~A partisan of French methods, Moratin published in 1762 his Desengano al teatro espanol, a severe criticism of the national drama.
-~"Rebel " or " Partisan ."
+~"rebel " or " partisan ."
 ~Two of the Babenberg brothers were killed, and the survivor Adalbert was summoned before the imperial court by the regent Hatto I., archbishop of Mainz, a partisan of the Conradines.
 
 $patent
@@ -3312,13 +3312,12 @@ $placating
 
 $plastic
 >adj. easily shaped or molded
->adj. made of plastic
 ~Because glass can break so easily, the children eat off of flexible plastic plates.
 ~On Easter, egg-shaped plastic containers were opened and filled with candy.
 ~The plastic material was shaped into many different figures at the factory.
 
 $platitude
->n. a trite or clichÃ© statement
+>n. a trite or cliche statement
 ~Because I have heard your platitude a hundred times, it means nothing to me now.
 ~The politician ended his speech with a platitude about every man’s right to vote.
 ~After hearing the salesman’s unoriginal platitude, I decided to go to another car dealer.
@@ -3385,11 +3384,16 @@ $polarizing
 
 $polemic
 >n. a strong verbal or written attack on someone or something.
+>adj. of or involving dispute or controversy
 ~Because I do not like to become involved in the conflicts of others, I refuse to listen to my office mate’s polemic about another employee.
 ~The newspaper editor used his column to present a polemic that was a scathing attack against the city’s dishonest mayor.
 ~When the principal received an anonymous polemic about her leadership skills, she urged the writer to meet her face-to-face.
 ~The cartoonist’s latest sketch is a polemic that illustrates the island dictator as a toddler who constantly has tantrums.
 ~The political candidate posted a polemic on his blog that mocked his rival’s lack of community service.
+~The New Testament is a polemic book almost from beginning to end.
+~The New Testament is a polemic book almost from beginning to end.
+~The New Testament is a polemic book almost from beginning to end.
+~The New Testament is a polemic book almost from beginning to end.
 
 $pragmatic
 >adj. practical
@@ -3425,15 +3429,16 @@ $precipitating
 >adj. hastily and not well-considered
 >n. particulate matter formed within a solution
 ~The rising level of unemployment is going to precipitate a huge crowd at the welfare office.
-~Even though Mark is experiencing pain in his ankle, he cannot think of anything he did to precipitate the injury.
-~The passing of the gun control bill may precipitate a rapid increase in illegal gun sales.
 ~Although economists cannot be certain, it is presumed the rising real estate market will precipitate new jobs.
-~The witch got people to purchase her magic potion by telling them the liquid would precipitate true love.
-~Drinking in excess will precipitate liver disease.
 ~Despite the mediator’s wish to precipitate peace between the two warring countries, he was unable to get the sides to agree to a treaty. 
 ~More than likely, the lack of rain is going to precipitate a drought in the southern region of the country.
 ~Eating an unhealthy diet will precipitate poor health.
-~The principal did what she could to precipitate an end to the student dispute.
+~Don't be precipitate - think it through before you make a decision.
+~I don't think we should make precipitate decisions.
+~Many of our current problems have been caused by precipitate policy making in the past.
+~The king was too precipitate in declaring war.
+~A cool breeze caused a precipitate drop in the temperature.
+~Clouds usually precipitate as rain or snow.
 
 $precursor
 >n. a forerunner
@@ -3455,7 +3460,7 @@ $prescient
 ~Extraordinarily prescient, the 1905 book accurately predicted what is going on in today’s times.
 
 $presumptuous
->adj. overly familiar; invades social boundaries
+>adj. excessively forward; invades social boundaries
 ~It was rather presumptuous of her to assume I would get her a birthday present.
 ~The students were presumptuous to think their teacher would not give them a pop quiz on a Monday.
 ~Despite the fact my uncle believed he was entitled to everything, he was not a presumptuous man.
