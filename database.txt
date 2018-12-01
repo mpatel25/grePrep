@@ -1408,12 +1408,10 @@ $disseminating
 ~The pollen will disseminate into the region by Thursday, causing further burdens for allergy sufferers.
 ~Once we finalize the agreement, I will disseminate funds into your account.
 ~Cover your mouth while sneezing so that you do not disseminate bacteria.
-~If you are going to disseminate false information, then don
-~t share it at all.
+~If you are going to disseminate false information, then don't share it at all.
 ~How dare you disseminate a rumor about my relationship!
-~Just because you are having a bad day doesn
-~t mean you should disseminate negative energy onto me.
-~Disseminate trust building practices in your organization to build a collaborative team environment.
+~Just because you are having a bad day doesn't mean you should disseminate negative energy onto me.
+~disseminate trust building practices in your organization to build a collaborative team environment.
 
 $dissonance
 >n. a clash between two elements that don&#8217;t blend well
@@ -1423,7 +1421,7 @@ $dissonance
 ~Although the pastor preached about the importance of marriage, his dissonance became obvious when he fell in love with a married woman.
 ~The criminal used dissonance to his advantage by behaving in a way in which the police would never have expected him to act.
 ~Because Jason had conflicting thoughts, he experienced an emotional dissonance that made him very confused. 
-~Dissonance often occurs when individuals try to explain their abnormal behaviors.
+~dissonance often occurs when individuals try to explain their abnormal behaviors.
 ~From the country’s travel brochures, it is impossible to see the dissonance between the luxury hotels and the starving citizens.
 ~The dissonance between the estimated cost of the war and the real expense shocked the entire nation. 
 ~Despite the peaceful intentions of the protestors, the dissonance among the groups led to a small riot.  
@@ -1449,8 +1447,7 @@ $dogma
 ~The minister would have us believe every bit of dogma that comes out of his mouth. 
 ~Although Jake considered himself to be quite religious, he did not blindly follow the dogma of the church.
 ~The innocent teenager accepts every Internet article she reads as dogma.
-~Because the cult followers were drugged, they believed each statement from their leader was a part of God
-~s dogma.
+~Because the cult followers were drugged, they believed each statement from their leader was a part of God's dogma.
 ~Since I do not believe my firm’s dogma that work comes before family, I have decided to look for a new job.
 
 $dupe
@@ -1475,7 +1472,7 @@ $ebullient
 ~When Matthew lost his job, he was no longer ebullient and excited about his future.
 ~My aunt is an ebullient woman who can always see the rainbow through the clouds.
 ~While my friend Sarah always seems to be depressed, her husband Mark is generally ebullient.
-~Ebullient investors are happily buying stocks this week.
+~ebullient investors are happily buying stocks this week.
 
 $eccentric
 >adj. quirky or unusual
@@ -1577,27 +1574,32 @@ $emulates
 $emulated
 $emulating
 >v. to imitate or attempt to equal in accomplishment
-emulate
+~Aspiring to become a good cook, Kate will emulate the recipes and cooking techniques of chef Emeril.
+~If you want to be rich, emulate a wealthy entrepreneur.
+~The boy would emulate his father's morning routine, from reading the newspaper to sipping coffee.
+~I would rather you find your own voice and not emulate your favorite singer.
+~emulate after your accomplished father, not a trashy celebrity.
+~Sue is going to emulate her brother's strong work ethic in order to be successful.
+~Our youth desperately needs to emulate positive role models.
+~Josh is trying to emulate the success of his well-accomplished mother.
+~I ask you not to emulate and copy my inventions.
+~In hopes of keeping her small business afloat, Mary will emulate her competitors' business practices. 
 
 $enervate
 $enervates
 $enervated
 $enervating
 >v. to exhaust or drain of energy
-~The wrestler
-~s plan was to deliver a crushing blow which would enervate his opponent.
+~The wrestler's plan was to deliver a crushing blow which would enervate his opponent.
 ~Because he is much heavier than me, the only way for me to enervate him is by putting a sleeping pill in his food.
-~The alcohol appeared to enervate Jason
-~s ability to focus at work. 
+~The alcohol appeared to enervate Jason's ability to focus at work. 
 ~If the hurricane comes near the city, the winds may enervate the flood walls and cause them to crumble.
 ~The bullet wound did not enervate the suspect enough to slow him down during the chase.
 ~When Kyle died, nobody missed him because he was a bully who liked to enervate women by hitting them.
 ~The general devised an attack to enervate and conquer his enemy.
 ~When the soldiers put dynamite under the bridge, they hoped it would enervate the foundation to the point of collapse. 
-~It was the evil stepmother
-~s intention to enervate her stepdaughter by denying her food and water.
-~The wolf
-~s plan of attack was to enervate the buffalo and kill it. 
+~It was the evil stepmother's intention to enervate her stepdaughter by denying her food and water.
+~The wolf's plan of attack was to enervate the buffalo and kill it. 
 
 $engender
 $engenders
@@ -1637,7 +1639,7 @@ $entitlement
 
 $ephemeral
 >adj. short-lived or transient
-~Ephemeral art painted on the sidewalks will wash away when it rains.
+~ephemeral art painted on the sidewalks will wash away when it rains.
 ~Because of her ephemeral memory, she forgets things all the time!
 ~The thunderstorm was ephemeral, starting suddenly and gone within seconds.
 ~Did you know that bees have an ephemeral 5 week lifespan?
@@ -1675,11 +1677,29 @@ $equivocating
 
 $erroneous
 >adj. incorrect
-erroneous
+~After he had spent every waking moment of the past few days researching the subject, he was understandably frustrated when he discovered that several of his sources contained erroneous information.
+~Paul made an erroneous assumption that the beautiful blonde was unattached, and he was rewarded with a black eye for his efforts to get a date.
+~As it turned out, the jury’s erroneous decision that the defendant was guilty caused irreparable damage when he was attacked by some of the inmates in his cell block.
+~Despite the fact that you used an erroneous method to solve the problem, somehow you managed to arrive at the correct solution.
+~Because Olivia believed that David embraced some erroneous ideas regarding religion, she knew that they would never be compatible in a relationship.
+~If you have used erroneous statistics in your report, you will have to start over from the beginning.
+~You can use Wikipedia as a starting place for research on most topics, but it’s essential to double check your facts because some information may be erroneous.
+~He was a rebellious teenager because he believed that his parents always gave him erroneous instructions on how to behave in society.
+~She knew that the testimony was erroneous, but her attorney advised her to sign the transcript anyway.
+~She knew she was too tired to work when she kept coming up with one erroneous total after another.
 
 $erudite
 >adj. learned
-erudite
+~The room was full of erudite scholars who made the discussion on astronomy fun and interesting.
+~As a result of having studied abroad several years, Helen has become quite erudite on the subject of art history.
+~While I learned everything I know from television, my sister can credit being erudite to spending countless hours in the classroom obtaining her doctoral degree.
+~Our erudite instructor was able to answer every question asked by our class.
+~With his informative presentation, William showed his peers how erudite he truly was.
+~Many difficult questions were asked by the students, and they were all followed by erudite responses from their knowledgeable teachers.
+~In order to understand this book on nuclear physics, I will have to review it with someone who is erudite in that subject.
+~In order to understand this book on nuclear physics, I will have to review it with someone who is erudite in that subject.
+~Although erudite and experienced, the tired professor found it difficult to teach a simple physics lesson.
+~His erudite observation about my childhood caught me off-guard.
 
 $eschew
 $eschews
@@ -1795,8 +1815,7 @@ $expatiating
 ~The congressman will expatiate for hours on the importance of educational spending.
 ~A long-winded talker, Carter can expatiate on any topic.
 ~At the investment meeting, Jacques will expatiate on the merits of his business proposal.
-~Richard didn
-~t understand the lesson so he asked his teacher to expatiate on the subject.
+~Richard didn't understand the lesson so he asked his teacher to expatiate on the subject.
 
 $explicate
 $explicates
@@ -1816,7 +1835,6 @@ $exposition
 ~Frank attends an annual job exposition because he says that job recruiters are always there searching for the right candidates.
 ~As an author, Maria booked an exposition booth at the Publisher Trade Show to get the word out about her books.
 ~We are calling on the feds to release the Governor’s tax returns, as an exposition for the whole world to see.
-~At the exhibition, the French painting was declared as one of the finest works of art that Europe had ever produced.
 
 $extraneous
 >adj. irrelevant or superfluous
@@ -1871,7 +1889,11 @@ $facilitating
 
 $fallacious
 >adj. relying on a fallacy and thus incorrect/misinformed
-fallacious
+~It would be fallacious to attribute full credit to a person as many people worked on the project.
+~It would be stupid and fallacious to deny the great and wonderful things we did for you.
+~They reject the accusations as unsubstantiated and obviously fallacious.
+~The UN committee asserted that this argument is absolutely fallacious.
+~The suspect rejected his fallacious statements about the night of the murder.
 
 $fastidious
 >adj. meticulous
@@ -1926,7 +1948,7 @@ $forestalling
 ~To forestall the blackmailers from their threats, the celebrity sold her indecent pictures to an online website.
 
 $fortuitous
->adj. fortunate and lucky
+>adj. happening by accident or chance
 ~Mark proved to be fortuitous by selecting all six winning lotto numbers.
 ~It was a fortuitous coincidence that led the couple to meet at a football game twenty years ago.
 ~When Ellen had given up hope her car would start, a fortuitous encounter with a neighbor got her back on the road. 
@@ -1934,7 +1956,7 @@ $fortuitous
 ~Long ago, Neil had a fortuitous meeting with a television producer which helped him become a star.
 ~If it had not been for our fortuitous meeting, I would have never gotten my nerve up to approach you!
 ~The decrease in unemployment is not a fortuitous result.
-~Fortuitous and life-changing, Sam’s acceptance of Christ allowed him to move on after his wife’s death. 
+~fortuitous and life-changing, Sam’s acceptance of Christ allowed him to move on after his wife’s death. 
 ~Just as the bank was about to foreclose on the Smith family home, Mr. Smith received a fortuitous job offer.
 ~Isn’t it quite fortuitous the stolen money reappeared before the police arrived?
 
@@ -1949,7 +1971,7 @@ $frugal
 ~Buying in bulk to save a few dollars is part of my frugal lifestyle.
 ~I specifically requested the expensive brand; but no, you chose to be frugal.
 ~Brian, a frugal man, would cut his own hair to save money.
-~Frugal people are likely to shop at a thrift store.
+~frugal people are likely to shop at a thrift store.
 
 $gainsay
 $gainsays
@@ -1986,9 +2008,8 @@ $garrulous
 ~Because Jake is garrulous, asking him to keep a secret is impossible.
 ~How am I going to sleep sitting next to this garrulous woman on my long flight home?
 ~My garrulous sister talked only about boys on the phone all day.
-~Garrulous people make great talk show hosts.
-~If the garrulous car salesman prattles on with his small talk, I
-~ll buy a car elsewhere.
+~garrulous people make great talk show hosts.
+~If the garrulous car salesman prattles on with his small talk, I'll buy a car elsewhere.
 ~Though my window is closed, I can still hear my garrulous neighbors loudly gossip in the night.
 ~While I was in labor, my best friend and I had a garrulous discussion about the uses of thumb tacks.
 
@@ -2037,7 +2058,7 @@ $glibbing
 $gregarious
 >adj. sociable, genial
 ~When you walk in a room, you radiate gregarious energy, surely to brighten all gloomy souls.
-~Gregarious people are likely to hang out with friends every weekend while reserved people keep to themselves.
+~gregarious people are likely to hang out with friends every weekend while reserved people keep to themselves.
 ~If you want to be more approachable, show a gregarious smile.
 ~Storms of people rushed in the nightclub to have a gregarious time dancing and singing to the music.
 ~The gregarious 94-year-old grooved to rap music, a move that shocked the other retirees in the room.
@@ -2083,21 +2104,19 @@ $haranguing
 ~During last month’s meeting, the PTA president gave a harangue against the new superintendent. 
 ~While I met with Joe to have a friendly chat, he wanted to deliver another harangue about his dissatisfaction with life.
 ~As usual, the priest made his usual harangue about the dangers of listening to rap music. 
-~The candidate
-~s speech was nothing but a harangue against his opponent. 
+~The candidate's speech was nothing but a harangue against his opponent. 
 ~In an effort to recruit warriors, the tribal leader made a harangue about one of the neighboring tribes.
 ~Because I spent the rent money on clothes, I will have to endure a harangue from my husband. 
 ~The comedian does a hilarious harangue about obnoxious celebrities. 
 ~Although the student council president made a passionate harangue, no one believed the students would be allowed to have a dance.   
 ~I cannot wait to listen to the harangue my professor shares tonight!
 
-$hedonism
->n. the pursuit of pleasure
-hedonism
-
 $hierarchical
->adj. arranged in rank order or hierarchy
-hierarchical
+~In the vast majority of cases hierarchical inequality is taken for granted as part of the natural order of things.
+~The belief that hierarchical organizational structure makes for good business is a difficult one to give up.
+~He loved the hierarchical structure of Celtic society because it was hierarchical, but also because it was extravagant.
+~It is a very hierarchical company and there's little place for individual initiative.
+~The company's structure is rigidly hierarchical.
 
 $homogenous
 >adj. uniform, identical
@@ -2231,9 +2250,29 @@ $implicit
 ~The implicit message behind the anti-smoking commercial is that cigarettes cost a great deal more than money.
 ~When a person rents a car, there is an implicit agreement that he or she will return the vehicle to the rental company on a specified date.
 
-$imprudence
->n. bad judgment
-imprudence
+$imprudent
+>adj. quick to act without thoughts of the consequences
+~Phil’s imprudent turn on the highway caused a six-car accident.
+~When Ann booked the wedding chapel before receiving the proposal, everyone laughed at her imprudent decision.
+~Jackson’s imprudent attitude led him to think he could out run the police.
+~If Danielle does not stop being imprudent, she is going to get in serious legal trouble.
+~The teenager did not understand how her imprudent actions affected other people.
+~Because the drug company made an imprudent decision to ignore test results, it is being sued for selling harmful medications.
+~Patty’s imprudent choice to leave her younger sister home alone led her parents to revoke her driving privileges.
+~Because the wealthy playboy believed his father could get him out of anything, he never worried about his imprudent actions.
+~The company is looking for employees who carefully consider their options instead of acting in an imprudent manner.
+~When Alan is angry, he often makes imprudent decisions he later regrets.
+imprudent
+~Phil’s imprudent turn on the highway caused a six-car accident.
+~When Ann booked the wedding chapel before receiving the proposal, everyone laughed at her imprudent decision.
+~Jackson’s imprudent attitude led him to think he could out run the police.
+~If Danielle does not stop being imprudent, she is going to get in serious legal trouble.
+~The teenager did not understand how her imprudent actions affected other people.
+~Because the drug company made an imprudent decision to ignore test results, it is being sued for selling harmful medications.
+~Patty’s imprudent choice to leave her younger sister home alone led her parents to revoke her driving privileges.
+~Because the wealthy playboy believed his father could get him out of anything, he never worried about his imprudent actions.
+~The company is looking for employees who carefully consider their options instead of acting in an imprudent manner.
+~When Alan is angry, he often makes imprudent decisions he later regrets.
 
 $impudent
 >adj. disrespectful
@@ -2261,7 +2300,7 @@ $inadvertent
 ~After working on it for five hours, thank goodness I caught myself before I made an inadvertent deletion of the whole report.
 ~Even though he is painfully shy, Henry seems to be doing OK with the inadvertent fame he is receiving for marrying a glamorous movie star.
 
-$Inchoate
+$inchoate
 >adj. rudimentary, in the beginning stages
 ~Because our company just recently opened its doors, we are inchoate and are not offering all of our services yet. 
 ~While I have started writing my autobiography, it is still inchoate because I have several more chapters to add.
@@ -2280,7 +2319,7 @@ $inconclusive
 ~The suspect was given a polygraph that resulted in an inconclusive test.
 ~The Scantron marked my test as inconclusive because it couldn’t pick up my pencil markings.
 ~The ultrasound results for gender were inconclusive, so they scheduled another scan.
-~Inconclusive writing on the paper made it difficult for the detectives to decipher the words.
+~inconclusive writing on the paper made it difficult for the detectives to decipher the words.
 
 $indebted
 >adj. owing money
@@ -2349,7 +2388,7 @@ $inimical
 ~After my neighbor learned I had cut down his favorite tree, he was inimical to me.
 ~Carl is an inimical man who rarely smiles at people.
 ~Although Helen and Frank have been divorced for eight years, they are still inimical to one another. 
-~Inimical forces have taken hostages within the bank.
+~inimical forces have taken hostages within the bank.
 ~When Sarah did not receive her order on time, she became quite inimical.
 
 $innocuous
@@ -2392,7 +2431,7 @@ $insipid
 ~The critic compared eating the chef’s insipid dish to eating cardboard.
 
 $insular
->adj. tight-knit and isolated; uninterested in matters outside one&#8217;s immediate sphere
+>adj. tight-knit and isolated; uninterested in matters outside one's immediate sphere
 ~Because the insular man had lived on a deserted island for several years, he was not very good at making conversation.
 ~The people who live on the mountain have insular personalities because they are not used to being around other members of society.
 ~My grandparents’ insular attitudes make them very uninterested in what is going on outside their own lives. 
@@ -2406,7 +2445,11 @@ $insular
 
 $intensive
 >adj. concentrated and in-depth
-intensive
+~The allies let loose an intensive artillery bombardment over the border.
+~Ahead of us lay ten days of intensive training.
+~She needed intensive care for three weeks.
+~They teach you English in an intensive course lasting just a week; it's quite an intensive few days!
+~The man is in the hospital's intensive care unit.
 
 $intermediary
 >n. a go-between
@@ -3167,7 +3210,7 @@ $pedestrian
 ~A large number of people fell asleep during the pedestrian play.                                                                   
 ~If the book’s plot is pedestrian, then readers will quickly grow tired of the boring story.                        
 ~I couldn’t help but yawn as I watched the pedestrian film.                                                                          
-~Because Jim found pedestrian life to be be extremely boring, he couldn’t wait to move back to the big city.
+~Because Jim found pedestrian life to be extremely boring, he couldn’t wait to move back to the big city.
 
 $perfidy
 >n. treachery or deceit
@@ -3483,17 +3526,17 @@ $prevailing
 ~If logical minds do not prevail, a major war will break out between the two largest gangs in the city. 
 ~Truth and justice usually prevail at the end of all superhero movies.
 ~Who will prevail in the wrestling ring, the smaller faster wrestler or the bigger slower fellow?
-~In the end, order will always prevail over chaos.  
-~The stronger species will prevail in the fight for survival.
-~When the firemen arrive, they are sure to prevail against the small fire.
-~The civil rights laws were passed because a few citizens were determined to prevail against the status quo.
-~Until the home invaders are captured, fear will prevail in the community.
+~Can you prevail on him to go?
+~May I prevail on you to make a speech after dinner?
+~I wonder if I can prevail on you to help me out.
+~It was an argument in which neither side could prevail over the other.
+~They tried to prevail on him to take up the post but he declined.
 
 $prevaricate
 $prevaricates
 $prevaricated
 $prevaricating
->v. to evade or deceive without outright lying
+>v. to speak in an evasive way
 ~In order to get his bill passed, the politician went out of his way to prevaricate about the release of the environmental study.
 ~Because my sister Sarah does not take bad news well, I always prevaricate when telling her something she does not want to hear. 
 ~In hopes of avoiding questions about his recent car accident, the actor tried to prevaricate during his interview.
@@ -3533,6 +3576,7 @@ $probity
 
 $prodigal
 >n. a reckless spender
+>adj. profligate
 ~If you want to save money for college, you should stop your prodigal spending sprees. 
 ~We should be concerned about our future because of our prodigal youth.
 ~After the prodigal son spent all of his inheritance, he had to get a low-paying job.
@@ -3541,8 +3585,8 @@ $prodigal
 ~Jack’s prodigal actions left him penniless and without a home.
 ~When Carl divorced Carla, he said it was because of Carla’s prodigal habit of spending all his money on silly items.
 ~Everyone wants to know how Harvey can live such a prodigal lifestyle on such a small salary.
-~Although Maggie tried to save money for a new car, she could not give up her prodigal shopping binges.
-~Even when the dictator saw his people dying of hunger, he refused to change his prodigal way of life.
+~A prodigal who returns is more precious than gold.
+~A prodigal who returns is more precious than gold.
 
 $prodigious
 >adj. enormous, immense, gigantic
@@ -3561,13 +3605,18 @@ $profligate
 $profligates
 $profligated
 $profligating
+>n. a reckless spender
 >adj. extravagant and wasteful, esp. in an immoral way
+>n. a dissolute man in fashionable society
 ~After the millionaire saw evidence of his new wife's profligate spending, he quickly filed for a divorce.
 ~During the mayor’s campaign, he swore to put an end to profligate government spending.
 ~Tim made a lot of profligate purchases after winning the lottery.
-~While our employees have not received a pay raise in four years, our company president recently made a profligate statement by getting a private jet.
 ~Entertainment magazines are filled with the profligate ways in which celebrities waste money.
 ~My sister is profligate and wants to have only the best things in life.
+~The young profligate needs to be controlled.
+~He is a careless profligate.
+~The young profligate needs to be controlled.
+~He is a careless profligate.
 
 $proliferate
 $proliferates
@@ -3589,16 +3638,19 @@ $propitiate
 $propitiates
 $propitiated
 $propitiating
->v. to obtain special favor from someone, esp. a powerful person or deity, by performing a pleasing action
 >v. to appease someone who is angry
+>v. to obtain special favor from someone, esp. a powerful person or deity, by performing a pleasing action
 ~Only an idiot believes he can propitiate his way into heaven by giving the church all of his money.
 ~To propitiate my dying mother and earn her forgiveness, I promised to look after my sisters forever.
 ~After Bill forgot his wife’s birthday, he tried to propitiate the situation by purchasing her the pearl necklace she always wanted.
 ~People would often sacrifice their friends and family members to propitiate the gods in order to be pardoned for their misdeeds.
 ~By doing his community service without incident, Harry hoped to quickly propitiate his sentence.
+~propitiate the gods with a sacrifice.
+~Ritual offerings of meat, spices and wines were made by the mortal family to propitiate the restless spirit.
+~In those days people might sacrifice a goat or sheep to propitiate an angry god.
 
 $propriety
->n. appropriateness, manners, decorum
+>n. appropriate behavior, manners, decorum
 ~After Harold wore a clown suit to his cousin’s funeral, we had to question his sense of propriety.
 ~When I arrived at the meeting, I saw the directors were engaged in a heated debate over the treasurer's propriety to bookkeeping standards
 ~Because she is an advice columnist who wants to teach people how to behave properly, Helen places emphasis on observing propriety.
@@ -3621,6 +3673,11 @@ $qualification
 ~One qualification for employment is that the potential employee must meet a drug screen.
 ~Passing the qualification round, the runner prepared for the next phase of the competition.
 ~In the civil rights era, a literacy qualification was used to stop African Americans from exercising their right to vote.
+~The term "population" as used here requires qualification.
+~Doing research for a further qualification.
+~Bryant always says what he means, without qualification or evasion.
+~The notion that humanity was dethroned from a central place in creation requires careful qualification
+~One qualification is that some evolutionary changes occur by chance, without natural selection.
 
 $quotidian
 >adj. relating to the everyday or mundane
@@ -3667,7 +3724,7 @@ $recondite
 $recondites
 $recondited
 $reconditing
->adj. arcane or obscure
+>adj. difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge
 ~Since I do not have a law degree, I find it hard to understand the recondite terms of the contract.
 ~The difficult concept of the physics theory was recondite to everyone but the scientists.
 ~To me, my daughter’s foolish actions are recondite and not understandable at all.
@@ -3700,7 +3757,7 @@ $relentless
 ~The relentless marshal pursued the escaped prisoner for ten years. 
 ~During the battle, the relentless soldier continued to fight despite the bullet in his shoulder.
 ~The politician’s rivals are waging a relentless campaign of slander against him.
-~Relentless and driven, the runner managed to finish the race despite his bruised ankle.
+~relentless and driven, the runner managed to finish the race despite his bruised ankle.
 ~If you are relentless in pursuit of your dreams, you will achieve them.
 
 $relevant
